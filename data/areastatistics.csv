@@ -1,0 +1,2173 @@
+id,name,state,url,text
+1,Aeugst am Albis,1,https://example.ch,Lorem Impsum
+2,Affoltern am Albis,2,https://example.ch,Lorem Impsum
+3,Bonstetten,3,https://example.ch,Lorem Impsum
+4,Hausen am Albis,4,https://example.ch,Lorem Impsum
+5,Hedingen,4,https://example.ch,Lorem Impsum
+6,Kappel am Albis,3,https://example.ch,Lorem Impsum
+7,Knonau,2,https://example.ch,Lorem Impsum
+8,Maschwanden,1,https://example.ch,Lorem Impsum
+9,Mettmenstetten,1,https://example.ch,Lorem Impsum
+10,Obfelden,2,https://example.ch,Lorem Impsum
+11,Ottenbach,3,https://example.ch,Lorem Impsum
+12,Rifferswil,4,https://example.ch,Lorem Impsum
+13,Stallikon,4,https://example.ch,Lorem Impsum
+14,Wettswil am Albis,3,https://example.ch,Lorem Impsum
+21,Adlikon,2,https://example.ch,Lorem Impsum
+22,Benken (ZH),1,https://example.ch,Lorem Impsum
+23,Berg am Irchel,1,https://example.ch,Lorem Impsum
+24,Buch am Irchel,2,https://example.ch,Lorem Impsum
+25,Dachsen,3,https://example.ch,Lorem Impsum
+26,Dorf,4,https://example.ch,Lorem Impsum
+27,Feuerthalen,4,https://example.ch,Lorem Impsum
+28,Flaach,3,https://example.ch,Lorem Impsum
+29,Flurlingen,2,https://example.ch,Lorem Impsum
+30,Andelfingen,1,https://example.ch,Lorem Impsum
+31,Henggart,1,https://example.ch,Lorem Impsum
+32,Humlikon,2,https://example.ch,Lorem Impsum
+33,Kleinandelfingen,3,https://example.ch,Lorem Impsum
+34,Laufen-Uhwiesen,4,https://example.ch,Lorem Impsum
+35,Marthalen,4,https://example.ch,Lorem Impsum
+37,Ossingen,3,https://example.ch,Lorem Impsum
+38,Rheinau,2,https://example.ch,Lorem Impsum
+39,Thalheim an der Thur,1,https://example.ch,Lorem Impsum
+40,Trüllikon,1,https://example.ch,Lorem Impsum
+41,Truttikon,2,https://example.ch,Lorem Impsum
+43,Volken,3,https://example.ch,Lorem Impsum
+51,Bachenbülach,4,https://example.ch,Lorem Impsum
+52,Bassersdorf,4,https://example.ch,Lorem Impsum
+53,Bülach,3,https://example.ch,Lorem Impsum
+54,Dietlikon,2,https://example.ch,Lorem Impsum
+55,Eglisau,1,https://example.ch,Lorem Impsum
+56,Embrach,1,https://example.ch,Lorem Impsum
+57,Freienstein-Teufen,2,https://example.ch,Lorem Impsum
+58,Glattfelden,3,https://example.ch,Lorem Impsum
+59,Hochfelden,4,https://example.ch,Lorem Impsum
+60,Höri,4,https://example.ch,Lorem Impsum
+61,Hüntwangen,3,https://example.ch,Lorem Impsum
+62,Kloten,2,https://example.ch,Lorem Impsum
+63,Lufingen,1,https://example.ch,Lorem Impsum
+64,Nürensdorf,1,https://example.ch,Lorem Impsum
+65,Oberembrach,2,https://example.ch,Lorem Impsum
+66,Opfikon,3,https://example.ch,Lorem Impsum
+67,Rafz,4,https://example.ch,Lorem Impsum
+68,Rorbas,4,https://example.ch,Lorem Impsum
+69,Wallisellen,3,https://example.ch,Lorem Impsum
+70,Wasterkingen,2,https://example.ch,Lorem Impsum
+71,Wil (ZH),1,https://example.ch,Lorem Impsum
+72,Winkel,1,https://example.ch,Lorem Impsum
+81,Bachs,2,https://example.ch,Lorem Impsum
+82,Boppelsen,3,https://example.ch,Lorem Impsum
+83,Buchs (ZH),4,https://example.ch,Lorem Impsum
+84,Dällikon,4,https://example.ch,Lorem Impsum
+85,Dänikon,3,https://example.ch,Lorem Impsum
+86,Dielsdorf,2,https://example.ch,Lorem Impsum
+87,Hüttikon,1,https://example.ch,Lorem Impsum
+88,Neerach,1,https://example.ch,Lorem Impsum
+89,Niederglatt,2,https://example.ch,Lorem Impsum
+90,Niederhasli,3,https://example.ch,Lorem Impsum
+91,Niederweningen,4,https://example.ch,Lorem Impsum
+92,Oberglatt,4,https://example.ch,Lorem Impsum
+93,Oberweningen,3,https://example.ch,Lorem Impsum
+94,Otelfingen,2,https://example.ch,Lorem Impsum
+95,Regensberg,1,https://example.ch,Lorem Impsum
+96,Regensdorf,1,https://example.ch,Lorem Impsum
+97,Rümlang,2,https://example.ch,Lorem Impsum
+98,Schleinikon,3,https://example.ch,Lorem Impsum
+99,Schöfflisdorf,4,https://example.ch,Lorem Impsum
+100,Stadel,4,https://example.ch,Lorem Impsum
+101,Steinmaur,3,https://example.ch,Lorem Impsum
+102,Weiach,2,https://example.ch,Lorem Impsum
+111,Bäretswil,1,https://example.ch,Lorem Impsum
+112,Bubikon,1,https://example.ch,Lorem Impsum
+113,Dürnten,2,https://example.ch,Lorem Impsum
+114,Fischenthal,3,https://example.ch,Lorem Impsum
+115,Gossau (ZH),4,https://example.ch,Lorem Impsum
+116,Grüningen,4,https://example.ch,Lorem Impsum
+117,Hinwil,3,https://example.ch,Lorem Impsum
+118,Rüti (ZH),2,https://example.ch,Lorem Impsum
+119,Seegräben,1,https://example.ch,Lorem Impsum
+120,Wald (ZH),1,https://example.ch,Lorem Impsum
+121,Wetzikon (ZH),2,https://example.ch,Lorem Impsum
+131,Adliswil,3,https://example.ch,Lorem Impsum
+135,Kilchberg (ZH),4,https://example.ch,Lorem Impsum
+136,Langnau am Albis,4,https://example.ch,Lorem Impsum
+137,Oberrieden,3,https://example.ch,Lorem Impsum
+138,Richterswil,2,https://example.ch,Lorem Impsum
+139,Rüschlikon,1,https://example.ch,Lorem Impsum
+141,Thalwil,1,https://example.ch,Lorem Impsum
+151,Erlenbach (ZH),2,https://example.ch,Lorem Impsum
+152,Herrliberg,3,https://example.ch,Lorem Impsum
+153,Hombrechtikon,4,https://example.ch,Lorem Impsum
+154,Küsnacht (ZH),4,https://example.ch,Lorem Impsum
+155,Männedorf,3,https://example.ch,Lorem Impsum
+156,Meilen,2,https://example.ch,Lorem Impsum
+157,Oetwil am See,1,https://example.ch,Lorem Impsum
+158,Stäfa,1,https://example.ch,Lorem Impsum
+159,Uetikon am See,2,https://example.ch,Lorem Impsum
+160,Zumikon,3,https://example.ch,Lorem Impsum
+161,Zollikon,4,https://example.ch,Lorem Impsum
+172,Fehraltorf,4,https://example.ch,Lorem Impsum
+173,Hittnau,3,https://example.ch,Lorem Impsum
+176,Lindau,2,https://example.ch,Lorem Impsum
+177,Pfäffikon,1,https://example.ch,Lorem Impsum
+178,Russikon,1,https://example.ch,Lorem Impsum
+180,Weisslingen,2,https://example.ch,Lorem Impsum
+181,Wila,3,https://example.ch,Lorem Impsum
+182,Wildberg,4,https://example.ch,Lorem Impsum
+191,Dübendorf,4,https://example.ch,Lorem Impsum
+192,Egg,3,https://example.ch,Lorem Impsum
+193,Fällanden,2,https://example.ch,Lorem Impsum
+194,Greifensee,1,https://example.ch,Lorem Impsum
+195,Maur,1,https://example.ch,Lorem Impsum
+196,Mönchaltorf,2,https://example.ch,Lorem Impsum
+197,Schwerzenbach,3,https://example.ch,Lorem Impsum
+198,Uster,4,https://example.ch,Lorem Impsum
+199,Volketswil,4,https://example.ch,Lorem Impsum
+200,Wangen-Brüttisellen,3,https://example.ch,Lorem Impsum
+211,Altikon,2,https://example.ch,Lorem Impsum
+213,Brütten,1,https://example.ch,Lorem Impsum
+214,Dägerlen,1,https://example.ch,Lorem Impsum
+215,Dättlikon,2,https://example.ch,Lorem Impsum
+216,Dinhard,3,https://example.ch,Lorem Impsum
+218,Ellikon an der Thur,4,https://example.ch,Lorem Impsum
+219,Elsau,4,https://example.ch,Lorem Impsum
+220,Hagenbuch,3,https://example.ch,Lorem Impsum
+221,Hettlingen,2,https://example.ch,Lorem Impsum
+223,Neftenbach,1,https://example.ch,Lorem Impsum
+224,Pfungen,1,https://example.ch,Lorem Impsum
+225,Rickenbach (ZH),2,https://example.ch,Lorem Impsum
+226,Schlatt (ZH),3,https://example.ch,Lorem Impsum
+227,Seuzach,4,https://example.ch,Lorem Impsum
+228,Turbenthal,4,https://example.ch,Lorem Impsum
+230,Winterthur,3,https://example.ch,D stadt vo mine Alte
+231,Zell (ZH),2,https://example.ch,Lorem Impsum
+241,Aesch (ZH),1,https://example.ch,Lorem Impsum
+242,Birmensdorf (ZH),1,https://example.ch,Lorem Impsum
+243,Dietikon,2,https://example.ch,Lorem Impsum
+244,Geroldswil,3,https://example.ch,Lorem Impsum
+245,Oberengstringen,4,https://example.ch,Lorem Impsum
+246,Oetwil an der Limmat,4,https://example.ch,Lorem Impsum
+247,Schlieren,3,https://example.ch,Lorem Impsum
+248,Uitikon,2,https://example.ch,Lorem Impsum
+249,Unterengstringen,1,https://example.ch,Lorem Impsum
+250,Urdorf,1,https://example.ch,Lorem Impsum
+251,Weiningen (ZH),2,https://example.ch,Lorem Impsum
+261,Zürich,3,https://example.ch,Lorem Impsum
+292,Stammheim,4,https://example.ch,Lorem Impsum
+293,Wädenswil,4,https://example.ch,Lorem Impsum
+294,Elgg,3,https://example.ch,Lorem Impsum
+295,Horgen,2,https://example.ch,Lorem Impsum
+296,Illnau-Effretikon,1,https://example.ch,Lorem Impsum
+297,Bauma,1,https://example.ch,Lorem Impsum
+298,Wiesendangen,2,https://example.ch,Lorem Impsum
+301,Aarberg,3,https://example.ch,Lorem Impsum
+302,Bargen (BE),4,https://example.ch,Lorem Impsum
+303,Grossaffoltern,4,https://example.ch,Lorem Impsum
+304,Kallnach,3,https://example.ch,Lorem Impsum
+305,Kappelen,2,https://example.ch,Lorem Impsum
+306,Lyss,1,https://example.ch,Lorem Impsum
+307,Meikirch,1,https://example.ch,Lorem Impsum
+309,Radelfingen,2,https://example.ch,Lorem Impsum
+310,Rapperswil (BE),3,https://example.ch,Lorem Impsum
+311,Schüpfen,4,https://example.ch,Lorem Impsum
+312,Seedorf (BE),4,https://example.ch,Lorem Impsum
+321,Aarwangen,3,https://example.ch,Lorem Impsum
+322,Auswil,2,https://example.ch,Lorem Impsum
+323,Bannwil,1,https://example.ch,Lorem Impsum
+324,Bleienbach,1,https://example.ch,Lorem Impsum
+325,Busswil bei Melchnau,2,https://example.ch,Lorem Impsum
+326,Gondiswil,3,https://example.ch,Lorem Impsum
+329,Langenthal,4,https://example.ch,Lorem Impsum
+331,Lotzwil,4,https://example.ch,Lorem Impsum
+332,Madiswil,3,https://example.ch,Lorem Impsum
+333,Melchnau,2,https://example.ch,Lorem Impsum
+335,Oeschenbach,1,https://example.ch,Lorem Impsum
+336,Reisiswil,1,https://example.ch,Lorem Impsum
+337,Roggwil (BE),2,https://example.ch,Lorem Impsum
+338,Rohrbach,3,https://example.ch,Lorem Impsum
+339,Rohrbachgraben,4,https://example.ch,Lorem Impsum
+340,Rütschelen,4,https://example.ch,Lorem Impsum
+341,Schwarzhäusern,3,https://example.ch,Lorem Impsum
+342,Thunstetten,2,https://example.ch,Lorem Impsum
+344,Ursenbach,1,https://example.ch,Lorem Impsum
+345,Wynau,1,https://example.ch,Lorem Impsum
+351,Bern,2,https://example.ch,Lorem Impsum
+352,Bolligen,3,https://example.ch,Lorem Impsum
+353,Bremgarten bei Bern,4,https://example.ch,Lorem Impsum
+354,Kirchlindach,4,https://example.ch,Lorem Impsum
+355,Köniz,3,https://example.ch,Lorem Impsum
+356,Muri bei Bern,2,https://example.ch,Lorem Impsum
+357,Oberbalm,1,https://example.ch,Lorem Impsum
+358,Stettlen,1,https://example.ch,Lorem Impsum
+359,Vechigen,2,https://example.ch,Lorem Impsum
+360,Wohlen bei Bern,3,https://example.ch,Lorem Impsum
+361,Zollikofen,4,https://example.ch,Lorem Impsum
+362,Ittigen,4,https://example.ch,Lorem Impsum
+363,Ostermundigen,3,https://example.ch,Lorem Impsum
+371,Biel/Bienne,2,https://example.ch,Lorem Impsum
+372,Evilard,1,https://example.ch,Lorem Impsum
+381,Arch,1,https://example.ch,Lorem Impsum
+382,Büetigen,2,https://example.ch,Lorem Impsum
+383,Büren an der Aare,3,https://example.ch,Lorem Impsum
+385,Diessbach bei Büren,4,https://example.ch,Lorem Impsum
+386,Dotzigen,4,https://example.ch,Lorem Impsum
+387,Lengnau (BE),3,https://example.ch,Lorem Impsum
+388,Leuzigen,2,https://example.ch,Lorem Impsum
+389,Meienried,1,https://example.ch,Lorem Impsum
+390,Meinisberg,1,https://example.ch,Lorem Impsum
+391,Oberwil bei Büren,2,https://example.ch,Lorem Impsum
+392,Pieterlen,3,https://example.ch,Lorem Impsum
+393,Rüti bei Büren,4,https://example.ch,Lorem Impsum
+394,Wengi,4,https://example.ch,Lorem Impsum
+401,Aefligen,3,https://example.ch,Lorem Impsum
+402,Alchenstorf,2,https://example.ch,Lorem Impsum
+403,Bäriswil,1,https://example.ch,Lorem Impsum
+404,Burgdorf,1,https://example.ch,Lorem Impsum
+405,Ersigen,2,https://example.ch,Lorem Impsum
+406,Hasle bei Burgdorf,3,https://example.ch,Lorem Impsum
+407,Heimiswil,4,https://example.ch,Lorem Impsum
+408,Hellsau,4,https://example.ch,Lorem Impsum
+409,Hindelbank,3,https://example.ch,Lorem Impsum
+410,Höchstetten,2,https://example.ch,Lorem Impsum
+411,Kernenried,1,https://example.ch,Lorem Impsum
+412,Kirchberg (BE),1,https://example.ch,Lorem Impsum
+413,Koppigen,2,https://example.ch,Lorem Impsum
+414,Krauchthal,3,https://example.ch,Lorem Impsum
+415,Lyssach,4,https://example.ch,Lorem Impsum
+418,Oberburg,4,https://example.ch,Lorem Impsum
+420,Rüdtligen-Alchenflüh,3,https://example.ch,Lorem Impsum
+421,Rumendingen,2,https://example.ch,Lorem Impsum
+422,Rüti bei Lyssach,1,https://example.ch,Lorem Impsum
+423,Willadingen,1,https://example.ch,Lorem Impsum
+424,Wynigen,2,https://example.ch,Lorem Impsum
+431,Corgémont,3,https://example.ch,Lorem Impsum
+432,Cormoret,4,https://example.ch,Lorem Impsum
+433,Cortébert,4,https://example.ch,Lorem Impsum
+434,Courtelary,3,https://example.ch,Lorem Impsum
+435,La Ferrière,2,https://example.ch,Lorem Impsum
+437,Mont-Tramelan,1,https://example.ch,Lorem Impsum
+438,Orvin,1,https://example.ch,Lorem Impsum
+441,Renan (BE),2,https://example.ch,Lorem Impsum
+442,Romont (BE),3,https://example.ch,Lorem Impsum
+443,Saint-Imier,4,https://example.ch,Lorem Impsum
+444,Sonceboz-Sombeval,4,https://example.ch,Lorem Impsum
+445,Sonvilier,3,https://example.ch,Lorem Impsum
+446,Tramelan,2,https://example.ch,Lorem Impsum
+448,Villeret,1,https://example.ch,Lorem Impsum
+449,Sauge,1,https://example.ch,Lorem Impsum
+450,Péry-La Heutte,2,https://example.ch,Lorem Impsum
+491,Brüttelen,3,https://example.ch,Lorem Impsum
+492,Erlach,4,https://example.ch,Lorem Impsum
+493,Finsterhennen,4,https://example.ch,Lorem Impsum
+494,Gals,3,https://example.ch,Lorem Impsum
+495,Gampelen,2,https://example.ch,Lorem Impsum
+496,Ins,1,https://example.ch,Lorem Impsum
+497,Lüscherz,1,https://example.ch,Lorem Impsum
+498,Müntschemier,2,https://example.ch,Lorem Impsum
+499,Siselen,3,https://example.ch,Lorem Impsum
+500,Treiten,4,https://example.ch,Lorem Impsum
+501,Tschugg,4,https://example.ch,Lorem Impsum
+502,Vinelz,3,https://example.ch,Lorem Impsum
+533,Bätterkinden,2,https://example.ch,Lorem Impsum
+535,Deisswil bei Münchenbuchsee,1,https://example.ch,Lorem Impsum
+536,Diemerswil,1,https://example.ch,Lorem Impsum
+538,Fraubrunnen,2,https://example.ch,Lorem Impsum
+540,Jegenstorf,3,https://example.ch,Lorem Impsum
+541,Iffwil,4,https://example.ch,Lorem Impsum
+543,Mattstetten,4,https://example.ch,Lorem Impsum
+544,Moosseedorf,3,https://example.ch,Lorem Impsum
+546,Münchenbuchsee,2,https://example.ch,Lorem Impsum
+551,Urtenen-Schönbühl,1,https://example.ch,Lorem Impsum
+552,Utzenstorf,1,https://example.ch,Lorem Impsum
+553,Wiggiswil,2,https://example.ch,Lorem Impsum
+554,Wiler bei Utzenstorf,3,https://example.ch,Lorem Impsum
+556,Zielebach,4,https://example.ch,Lorem Impsum
+557,Zuzwil (BE),4,https://example.ch,Lorem Impsum
+561,Adelboden,3,https://example.ch,Lorem Impsum
+562,Aeschi bei Spiez,2,https://example.ch,Lorem Impsum
+563,Frutigen,1,https://example.ch,Lorem Impsum
+564,Kandergrund,1,https://example.ch,Lorem Impsum
+565,Kandersteg,2,https://example.ch,Lorem Impsum
+566,Krattigen,3,https://example.ch,Lorem Impsum
+567,Reichenbach im Kandertal,4,https://example.ch,Lorem Impsum
+571,Beatenberg,4,https://example.ch,Lorem Impsum
+572,Bönigen,3,https://example.ch,Lorem Impsum
+573,Brienz (BE),2,https://example.ch,Lorem Impsum
+574,Brienzwiler,1,https://example.ch,Lorem Impsum
+575,Därligen,1,https://example.ch,Lorem Impsum
+576,Grindelwald,2,https://example.ch,Lorem Impsum
+577,Gsteigwiler,3,https://example.ch,Lorem Impsum
+578,Gündlischwand,4,https://example.ch,Lorem Impsum
+579,Habkern,4,https://example.ch,Lorem Impsum
+580,Hofstetten bei Brienz,3,https://example.ch,Lorem Impsum
+581,Interlaken,2,https://example.ch,Lorem Impsum
+582,Iseltwald,1,https://example.ch,Lorem Impsum
+584,Lauterbrunnen,1,https://example.ch,Lorem Impsum
+585,Leissigen,2,https://example.ch,Lorem Impsum
+586,Lütschental,3,https://example.ch,Lorem Impsum
+587,Matten bei Interlaken,4,https://example.ch,Lorem Impsum
+588,Niederried bei Interlaken,4,https://example.ch,Lorem Impsum
+589,Oberried am Brienzersee,3,https://example.ch,Lorem Impsum
+590,Ringgenberg (BE),2,https://example.ch,Lorem Impsum
+591,Saxeten,1,https://example.ch,Lorem Impsum
+592,Schwanden bei Brienz,1,https://example.ch,Lorem Impsum
+593,Unterseen,2,https://example.ch,Lorem Impsum
+594,Wilderswil,3,https://example.ch,Lorem Impsum
+602,Arni (BE),4,https://example.ch,Lorem Impsum
+603,Biglen,4,https://example.ch,Lorem Impsum
+605,Bowil,3,https://example.ch,Lorem Impsum
+606,Brenzikofen,2,https://example.ch,Lorem Impsum
+607,Freimettigen,1,https://example.ch,Lorem Impsum
+608,Grosshöchstetten,1,https://example.ch,Lorem Impsum
+609,Häutligen,2,https://example.ch,Lorem Impsum
+610,Herbligen,3,https://example.ch,Lorem Impsum
+611,Kiesen,4,https://example.ch,Lorem Impsum
+612,Konolfingen,4,https://example.ch,Lorem Impsum
+613,Landiswil,3,https://example.ch,Lorem Impsum
+614,Linden,2,https://example.ch,Lorem Impsum
+615,Mirchel,1,https://example.ch,Lorem Impsum
+616,Münsingen,1,https://example.ch,Lorem Impsum
+617,Niederhünigen,2,https://example.ch,Lorem Impsum
+619,Oberdiessbach,3,https://example.ch,Lorem Impsum
+620,Oberthal,4,https://example.ch,Lorem Impsum
+622,Oppligen,4,https://example.ch,Lorem Impsum
+623,Rubigen,3,https://example.ch,Lorem Impsum
+626,Walkringen,2,https://example.ch,Lorem Impsum
+627,Worb,1,https://example.ch,Lorem Impsum
+628,Zäziwil,1,https://example.ch,Lorem Impsum
+629,Oberhünigen,2,https://example.ch,Lorem Impsum
+630,Allmendingen,3,https://example.ch,Lorem Impsum
+632,Wichtrach,4,https://example.ch,Lorem Impsum
+661,Clavaleyres,4,https://example.ch,Lorem Impsum
+662,Ferenbalm,3,https://example.ch,Lorem Impsum
+663,Frauenkappelen,2,https://example.ch,Lorem Impsum
+665,Gurbrü,1,https://example.ch,Lorem Impsum
+666,Kriechenwil,1,https://example.ch,Lorem Impsum
+667,Laupen,2,https://example.ch,Lorem Impsum
+668,Mühleberg,3,https://example.ch,Lorem Impsum
+669,Münchenwiler,4,https://example.ch,Lorem Impsum
+670,Neuenegg,4,https://example.ch,Lorem Impsum
+671,Wileroltigen,3,https://example.ch,Lorem Impsum
+681,Belprahon,2,https://example.ch,Lorem Impsum
+683,Champoz,1,https://example.ch,Lorem Impsum
+687,Corcelles (BE),1,https://example.ch,Lorem Impsum
+690,Court,2,https://example.ch,Lorem Impsum
+691,Crémines,3,https://example.ch,Lorem Impsum
+692,Eschert,4,https://example.ch,Lorem Impsum
+694,Grandval,4,https://example.ch,Lorem Impsum
+696,Loveresse,3,https://example.ch,Lorem Impsum
+700,Moutier,2,https://example.ch,Lorem Impsum
+701,Perrefitte,1,https://example.ch,Lorem Impsum
+703,Reconvilier,1,https://example.ch,Lorem Impsum
+704,Roches (BE),2,https://example.ch,Lorem Impsum
+706,Saicourt,3,https://example.ch,Lorem Impsum
+707,Saules (BE),4,https://example.ch,Lorem Impsum
+708,Schelten,4,https://example.ch,Lorem Impsum
+709,Seehof,3,https://example.ch,Lorem Impsum
+711,Sorvilier,2,https://example.ch,Lorem Impsum
+713,Tavannes,1,https://example.ch,Lorem Impsum
+715,Rebévelier,1,https://example.ch,Lorem Impsum
+716,Petit-Val,2,https://example.ch,Lorem Impsum
+717,Valbirse,3,https://example.ch,Lorem Impsum
+723,La Neuveville,4,https://example.ch,Lorem Impsum
+724,Nods,4,https://example.ch,Lorem Impsum
+726,Plateau de Diesse,3,https://example.ch,Lorem Impsum
+731,Aegerten,2,https://example.ch,Lorem Impsum
+732,Bellmund,1,https://example.ch,Lorem Impsum
+733,Brügg,1,https://example.ch,Lorem Impsum
+734,Bühl,2,https://example.ch,Lorem Impsum
+735,Epsach,3,https://example.ch,Lorem Impsum
+736,Hagneck,4,https://example.ch,Lorem Impsum
+737,Hermrigen,4,https://example.ch,Lorem Impsum
+738,Jens,3,https://example.ch,Lorem Impsum
+739,Ipsach,2,https://example.ch,Lorem Impsum
+740,Ligerz,1,https://example.ch,Lorem Impsum
+741,Merzligen,1,https://example.ch,Lorem Impsum
+742,Mörigen,2,https://example.ch,Lorem Impsum
+743,Nidau,3,https://example.ch,Lorem Impsum
+744,Orpund,4,https://example.ch,Lorem Impsum
+745,Port,4,https://example.ch,Lorem Impsum
+746,Safnern,3,https://example.ch,Lorem Impsum
+747,Scheuren,2,https://example.ch,Lorem Impsum
+748,Schwadernau,1,https://example.ch,Lorem Impsum
+749,Studen (BE),1,https://example.ch,Lorem Impsum
+750,Sutz-Lattrigen,2,https://example.ch,Lorem Impsum
+751,Täuffelen,3,https://example.ch,Lorem Impsum
+754,Walperswil,4,https://example.ch,Lorem Impsum
+755,Worben,4,https://example.ch,Lorem Impsum
+756,Twann-Tüscherz,3,https://example.ch,Lorem Impsum
+761,Därstetten,2,https://example.ch,Lorem Impsum
+762,Diemtigen,1,https://example.ch,Lorem Impsum
+763,Erlenbach im Simmental,1,https://example.ch,Lorem Impsum
+766,Oberwil im Simmental,2,https://example.ch,Lorem Impsum
+767,Reutigen,3,https://example.ch,Lorem Impsum
+768,Spiez,4,https://example.ch,Lorem Impsum
+769,Wimmis,4,https://example.ch,Lorem Impsum
+770,Stocken-Höfen,3,https://example.ch,Lorem Impsum
+782,Guttannen,2,https://example.ch,Lorem Impsum
+783,Hasliberg,1,https://example.ch,Lorem Impsum
+784,Innertkirchen,1,https://example.ch,Lorem Impsum
+785,Meiringen,2,https://example.ch,Lorem Impsum
+786,Schattenhalb,3,https://example.ch,Lorem Impsum
+791,Boltigen,4,https://example.ch,Lorem Impsum
+792,Lenk,4,https://example.ch,Lorem Impsum
+793,St. Stephan,3,https://example.ch,Lorem Impsum
+794,Zweisimmen,2,https://example.ch,Lorem Impsum
+841,Gsteig,1,https://example.ch,Lorem Impsum
+842,Lauenen,1,https://example.ch,Lorem Impsum
+843,Saanen,2,https://example.ch,Lorem Impsum
+852,Guggisberg,3,https://example.ch,Lorem Impsum
+853,Rüschegg,4,https://example.ch,Lorem Impsum
+855,Schwarzenburg,4,https://example.ch,Lorem Impsum
+861,Belp,3,https://example.ch,Lorem Impsum
+863,Burgistein,2,https://example.ch,Lorem Impsum
+866,Gerzensee,1,https://example.ch,Lorem Impsum
+867,Gurzelen,1,https://example.ch,Lorem Impsum
+868,Jaberg,2,https://example.ch,Lorem Impsum
+869,Kaufdorf,3,https://example.ch,Lorem Impsum
+870,Kehrsatz,4,https://example.ch,Lorem Impsum
+872,Kirchdorf (BE),4,https://example.ch,Lorem Impsum
+877,Niedermuhlern,3,https://example.ch,Lorem Impsum
+879,Riggisberg,2,https://example.ch,Lorem Impsum
+880,Rüeggisberg,1,https://example.ch,Lorem Impsum
+883,Seftigen,1,https://example.ch,Lorem Impsum
+884,Toffen,2,https://example.ch,Lorem Impsum
+885,Uttigen,3,https://example.ch,Lorem Impsum
+886,Wattenwil,4,https://example.ch,Lorem Impsum
+888,Wald (BE),4,https://example.ch,Lorem Impsum
+889,Thurnen,3,https://example.ch,Lorem Impsum
+901,Eggiwil,2,https://example.ch,Lorem Impsum
+902,Langnau im Emmental,1,https://example.ch,Lorem Impsum
+903,Lauperswil,1,https://example.ch,Lorem Impsum
+904,Röthenbach im Emmental,2,https://example.ch,Lorem Impsum
+905,Rüderswil,3,https://example.ch,Lorem Impsum
+906,Schangnau,4,https://example.ch,Lorem Impsum
+907,Signau,4,https://example.ch,Lorem Impsum
+908,Trub,3,https://example.ch,Lorem Impsum
+909,Trubschachen,2,https://example.ch,Lorem Impsum
+921,Amsoldingen,1,https://example.ch,Lorem Impsum
+922,Blumenstein,1,https://example.ch,Lorem Impsum
+923,Buchholterberg,2,https://example.ch,Lorem Impsum
+924,Eriz,3,https://example.ch,Lorem Impsum
+925,Fahrni,4,https://example.ch,Lorem Impsum
+927,Heiligenschwendi,4,https://example.ch,Lorem Impsum
+928,Heimberg,3,https://example.ch,Lorem Impsum
+929,Hilterfingen,2,https://example.ch,Lorem Impsum
+931,Homberg,1,https://example.ch,Lorem Impsum
+932,Horrenbach-Buchen,1,https://example.ch,Lorem Impsum
+934,Oberhofen am Thunersee,2,https://example.ch,Lorem Impsum
+935,Oberlangenegg,3,https://example.ch,Lorem Impsum
+936,Pohlern,4,https://example.ch,Lorem Impsum
+938,Sigriswil,4,https://example.ch,Lorem Impsum
+939,Steffisburg,3,https://example.ch,Lorem Impsum
+940,Teuffenthal (BE),2,https://example.ch,Lorem Impsum
+941,Thierachern,1,https://example.ch,Lorem Impsum
+942,Thun,1,https://example.ch,Lorem Impsum
+943,Uebeschi,2,https://example.ch,Lorem Impsum
+944,Uetendorf,3,https://example.ch,Lorem Impsum
+945,Unterlangenegg,4,https://example.ch,Lorem Impsum
+946,Wachseldorn,4,https://example.ch,Lorem Impsum
+947,Zwieselberg,3,https://example.ch,Lorem Impsum
+948,Forst-Längenbühl,2,https://example.ch,Lorem Impsum
+951,Affoltern im Emmental,1,https://example.ch,Lorem Impsum
+952,Dürrenroth,1,https://example.ch,Lorem Impsum
+953,Eriswil,2,https://example.ch,Lorem Impsum
+954,Huttwil,3,https://example.ch,Lorem Impsum
+955,Lützelflüh,4,https://example.ch,Lorem Impsum
+956,Rüegsau,4,https://example.ch,Lorem Impsum
+957,Sumiswald,3,https://example.ch,Lorem Impsum
+958,Trachselwald,2,https://example.ch,Lorem Impsum
+959,Walterswil (BE),1,https://example.ch,Lorem Impsum
+960,Wyssachen,1,https://example.ch,Lorem Impsum
+971,Attiswil,2,https://example.ch,Lorem Impsum
+972,Berken,3,https://example.ch,Lorem Impsum
+973,Bettenhausen,4,https://example.ch,Lorem Impsum
+975,Farnern,4,https://example.ch,Lorem Impsum
+976,Graben,3,https://example.ch,Lorem Impsum
+977,Heimenhausen,2,https://example.ch,Lorem Impsum
+979,Herzogenbuchsee,1,https://example.ch,Lorem Impsum
+980,Inkwil,1,https://example.ch,Lorem Impsum
+981,Niederbipp,2,https://example.ch,Lorem Impsum
+982,Niederönz,3,https://example.ch,Lorem Impsum
+983,Oberbipp,4,https://example.ch,Lorem Impsum
+985,Ochlenberg,4,https://example.ch,Lorem Impsum
+987,Rumisberg,3,https://example.ch,Lorem Impsum
+988,Seeberg,2,https://example.ch,Lorem Impsum
+989,Thörigen,1,https://example.ch,Lorem Impsum
+990,Walliswil bei Niederbipp,1,https://example.ch,Lorem Impsum
+991,Walliswil bei Wangen,2,https://example.ch,Lorem Impsum
+992,Wangen an der Aare,3,https://example.ch,Lorem Impsum
+993,Wangenried,4,https://example.ch,Lorem Impsum
+995,Wiedlisbach,4,https://example.ch,Lorem Impsum
+1001,Doppleschwand,3,https://example.ch,Lorem Impsum
+1002,Entlebuch,2,https://example.ch,Lorem Impsum
+1004,Flühli,1,https://example.ch,Lorem Impsum
+1005,Hasle (LU),1,https://example.ch,Lorem Impsum
+1007,Romoos,2,https://example.ch,Lorem Impsum
+1008,Schüpfheim,3,https://example.ch,Lorem Impsum
+1009,Werthenstein,4,https://example.ch,Lorem Impsum
+1010,Escholzmatt-Marbach,4,https://example.ch,Lorem Impsum
+1021,Aesch (LU),3,https://example.ch,Lorem Impsum
+1023,Ballwil,2,https://example.ch,Lorem Impsum
+1024,Emmen,1,https://example.ch,Lorem Impsum
+1025,Ermensee,1,https://example.ch,Lorem Impsum
+1026,Eschenbach (LU),2,https://example.ch,Lorem Impsum
+1030,Hitzkirch,3,https://example.ch,Lorem Impsum
+1031,Hochdorf,4,https://example.ch,Lorem Impsum
+1032,Hohenrain,4,https://example.ch,Lorem Impsum
+1033,Inwil,3,https://example.ch,Lorem Impsum
+1037,Rain,2,https://example.ch,Lorem Impsum
+1039,Römerswil,1,https://example.ch,Lorem Impsum
+1040,Rothenburg,1,https://example.ch,Lorem Impsum
+1041,Schongau,2,https://example.ch,Lorem Impsum
+1051,Adligenswil,3,https://example.ch,Lorem Impsum
+1052,Buchrain,4,https://example.ch,Lorem Impsum
+1053,Dierikon,4,https://example.ch,Lorem Impsum
+1054,Ebikon,3,https://example.ch,Lorem Impsum
+1055,Gisikon,2,https://example.ch,Lorem Impsum
+1056,Greppen,1,https://example.ch,Lorem Impsum
+1057,Honau,1,https://example.ch,Lorem Impsum
+1058,Horw,2,https://example.ch,Lorem Impsum
+1059,Kriens,3,https://example.ch,Lorem Impsum
+1061,Luzern,4,https://example.ch,Lorem Impsum
+1062,Malters,4,https://example.ch,Lorem Impsum
+1063,Meggen,3,https://example.ch,Lorem Impsum
+1064,Meierskappel,2,https://example.ch,Lorem Impsum
+1065,Root,1,https://example.ch,Lorem Impsum
+1066,Schwarzenberg,1,https://example.ch,Lorem Impsum
+1067,Udligenswil,2,https://example.ch,Lorem Impsum
+1068,Vitznau,3,https://example.ch,Lorem Impsum
+1069,Weggis,4,https://example.ch,Lorem Impsum
+1081,Beromünster,4,https://example.ch,Lorem Impsum
+1082,Büron,3,https://example.ch,Lorem Impsum
+1083,Buttisholz,2,https://example.ch,Lorem Impsum
+1084,Eich,1,https://example.ch,Lorem Impsum
+1085,Geuensee,1,https://example.ch,Lorem Impsum
+1086,Grosswangen,2,https://example.ch,Lorem Impsum
+1088,Hildisrieden,3,https://example.ch,Lorem Impsum
+1089,Knutwil,4,https://example.ch,Lorem Impsum
+1091,Mauensee,4,https://example.ch,Lorem Impsum
+1093,Neuenkirch,3,https://example.ch,Lorem Impsum
+1094,Nottwil,2,https://example.ch,Lorem Impsum
+1095,Oberkirch,1,https://example.ch,Lorem Impsum
+1097,Rickenbach (LU),1,https://example.ch,Lorem Impsum
+1098,Ruswil,2,https://example.ch,Lorem Impsum
+1099,Schenkon,3,https://example.ch,Lorem Impsum
+1100,Schlierbach,4,https://example.ch,Lorem Impsum
+1102,Sempach,4,https://example.ch,Lorem Impsum
+1103,Sursee,3,https://example.ch,Lorem Impsum
+1104,Triengen,2,https://example.ch,Lorem Impsum
+1107,Wolhusen,1,https://example.ch,Lorem Impsum
+1121,Alberswil,1,https://example.ch,Lorem Impsum
+1122,Altbüron,2,https://example.ch,Lorem Impsum
+1123,Altishofen,3,https://example.ch,Lorem Impsum
+1125,Dagmersellen,4,https://example.ch,Lorem Impsum
+1127,Egolzwil,4,https://example.ch,Lorem Impsum
+1128,Ettiswil,3,https://example.ch,Lorem Impsum
+1129,Fischbach,2,https://example.ch,Lorem Impsum
+1131,Grossdietwil,1,https://example.ch,Lorem Impsum
+1132,Hergiswil bei Willisau,1,https://example.ch,Lorem Impsum
+1135,Luthern,2,https://example.ch,Lorem Impsum
+1136,Menznau,3,https://example.ch,Lorem Impsum
+1137,Nebikon,4,https://example.ch,Lorem Impsum
+1139,Pfaffnau,4,https://example.ch,Lorem Impsum
+1140,Reiden,3,https://example.ch,Lorem Impsum
+1142,Roggliswil,2,https://example.ch,Lorem Impsum
+1143,Schötz,1,https://example.ch,Lorem Impsum
+1145,Ufhusen,1,https://example.ch,Lorem Impsum
+1146,Wauwil,2,https://example.ch,Lorem Impsum
+1147,Wikon,3,https://example.ch,Lorem Impsum
+1150,Zell (LU),4,https://example.ch,Lorem Impsum
+1151,Willisau,4,https://example.ch,Lorem Impsum
+1201,Altdorf (UR),3,https://example.ch,Lorem Impsum
+1202,Andermatt,2,https://example.ch,Lorem Impsum
+1203,Attinghausen,1,https://example.ch,Lorem Impsum
+1205,Bürglen (UR),1,https://example.ch,Lorem Impsum
+1206,Erstfeld,2,https://example.ch,Lorem Impsum
+1207,Flüelen,3,https://example.ch,Lorem Impsum
+1208,Göschenen,4,https://example.ch,Lorem Impsum
+1209,Gurtnellen,4,https://example.ch,Lorem Impsum
+1210,Hospental,3,https://example.ch,Lorem Impsum
+1211,Isenthal,2,https://example.ch,Lorem Impsum
+1212,Realp,1,https://example.ch,Lorem Impsum
+1213,Schattdorf,1,https://example.ch,Lorem Impsum
+1214,Seedorf (UR),2,https://example.ch,Lorem Impsum
+1215,Seelisberg,3,https://example.ch,Lorem Impsum
+1216,Silenen,4,https://example.ch,Lorem Impsum
+1217,Sisikon,4,https://example.ch,Lorem Impsum
+1218,Spiringen,3,https://example.ch,Lorem Impsum
+1219,Unterschächen,2,https://example.ch,Lorem Impsum
+1220,Wassen,1,https://example.ch,Lorem Impsum
+1301,Einsiedeln,1,https://example.ch,Lorem Impsum
+1311,Gersau,2,https://example.ch,Lorem Impsum
+1321,Feusisberg,3,https://example.ch,Lorem Impsum
+1322,Freienbach,4,https://example.ch,Lorem Impsum
+1323,Wollerau,4,https://example.ch,Lorem Impsum
+1331,Küssnacht (SZ),3,https://example.ch,Lorem Impsum
+1341,Altendorf,2,https://example.ch,Lorem Impsum
+1342,Galgenen,1,https://example.ch,Lorem Impsum
+1343,Innerthal,1,https://example.ch,Lorem Impsum
+1344,Lachen,2,https://example.ch,Lorem Impsum
+1345,Reichenburg,3,https://example.ch,Lorem Impsum
+1346,Schübelbach,4,https://example.ch,Lorem Impsum
+1347,Tuggen,4,https://example.ch,Lorem Impsum
+1348,Vorderthal,3,https://example.ch,Lorem Impsum
+1349,Wangen (SZ),2,https://example.ch,Lorem Impsum
+1361,Alpthal,1,https://example.ch,Lorem Impsum
+1362,Arth,1,https://example.ch,Lorem Impsum
+1363,Illgau,2,https://example.ch,Lorem Impsum
+1364,Ingenbohl,3,https://example.ch,Lorem Impsum
+1365,Lauerz,4,https://example.ch,Lorem Impsum
+1366,Morschach,4,https://example.ch,Lorem Impsum
+1367,Muotathal,3,https://example.ch,Lorem Impsum
+1368,Oberiberg,2,https://example.ch,Lorem Impsum
+1369,Riemenstalden,1,https://example.ch,Lorem Impsum
+1370,Rothenthurm,1,https://example.ch,Lorem Impsum
+1371,Sattel,2,https://example.ch,Lorem Impsum
+1372,Schwyz,3,https://example.ch,Lorem Impsum
+1373,Steinen,4,https://example.ch,Lorem Impsum
+1374,Steinerberg,4,https://example.ch,Lorem Impsum
+1375,Unteriberg,3,https://example.ch,Lorem Impsum
+1401,Alpnach,2,https://example.ch,Lorem Impsum
+1402,Engelberg,1,https://example.ch,Lorem Impsum
+1403,Giswil,1,https://example.ch,Lorem Impsum
+1404,Kerns,2,https://example.ch,Lorem Impsum
+1405,Lungern,3,https://example.ch,Lorem Impsum
+1406,Sachseln,4,https://example.ch,Lorem Impsum
+1407,Sarnen,4,https://example.ch,Lorem Impsum
+1501,Beckenried,3,https://example.ch,Lorem Impsum
+1502,Buochs,2,https://example.ch,Lorem Impsum
+1503,Dallenwil,1,https://example.ch,Lorem Impsum
+1504,Emmetten,1,https://example.ch,Lorem Impsum
+1505,Ennetbürgen,2,https://example.ch,Lorem Impsum
+1506,Ennetmoos,3,https://example.ch,Lorem Impsum
+1507,Hergiswil (NW),4,https://example.ch,Lorem Impsum
+1508,Oberdorf (NW),4,https://example.ch,Lorem Impsum
+1509,Stans,3,https://example.ch,Lorem Impsum
+1510,Stansstad,2,https://example.ch,Lorem Impsum
+1511,Wolfenschiessen,1,https://example.ch,Lorem Impsum
+1630,Glarus Nord,1,https://example.ch,Lorem Impsum
+1631,Glarus Süd,2,https://example.ch,Lorem Impsum
+1632,Glarus,3,https://example.ch,Lorem Impsum
+1701,Baar,4,https://example.ch,Lorem Impsum
+1702,Cham,4,https://example.ch,Lorem Impsum
+1703,Hünenberg,3,https://example.ch,Lorem Impsum
+1704,Menzingen,2,https://example.ch,Lorem Impsum
+1705,Neuheim,1,https://example.ch,Lorem Impsum
+1706,Oberägeri,1,https://example.ch,Lorem Impsum
+1707,Risch,2,https://example.ch,Lorem Impsum
+1708,Steinhausen,3,https://example.ch,Lorem Impsum
+1709,Unterägeri,4,https://example.ch,Lorem Impsum
+1710,Walchwil,4,https://example.ch,Lorem Impsum
+1711,Zug,3,https://example.ch,Lorem Impsum
+2008,Châtillon (FR),2,https://example.ch,Lorem Impsum
+2011,Cugy (FR),1,https://example.ch,Lorem Impsum
+2016,Fétigny,1,https://example.ch,Lorem Impsum
+2022,Gletterens,2,https://example.ch,Lorem Impsum
+2025,Lully (FR),3,https://example.ch,Lorem Impsum
+2027,Ménières,4,https://example.ch,Lorem Impsum
+2029,Montagny (FR),4,https://example.ch,Lorem Impsum
+2035,Nuvilly,3,https://example.ch,Lorem Impsum
+2038,Prévondavaux,2,https://example.ch,Lorem Impsum
+2041,Saint-Aubin (FR),1,https://example.ch,Lorem Impsum
+2043,Sévaz,1,https://example.ch,Lorem Impsum
+2044,Surpierre,2,https://example.ch,Lorem Impsum
+2045,Vallon,3,https://example.ch,Lorem Impsum
+2050,Les Montets,4,https://example.ch,Lorem Impsum
+2051,Delley-Portalban,4,https://example.ch,Lorem Impsum
+2053,Belmont-Broye,3,https://example.ch,Lorem Impsum
+2054,Estavayer,2,https://example.ch,Lorem Impsum
+2055,Cheyres-Châbles,1,https://example.ch,Lorem Impsum
+2061,Auboranges,1,https://example.ch,Lorem Impsum
+2063,Billens-Hennens,2,https://example.ch,Lorem Impsum
+2066,Chapelle (Glâne),3,https://example.ch,Lorem Impsum
+2067,Le Châtelard,4,https://example.ch,Lorem Impsum
+2068,Châtonnaye,4,https://example.ch,Lorem Impsum
+2072,Ecublens (FR),3,https://example.ch,Lorem Impsum
+2079,Grangettes,2,https://example.ch,Lorem Impsum
+2086,Massonnens,1,https://example.ch,Lorem Impsum
+2087,Mézières (FR),1,https://example.ch,Lorem Impsum
+2089,Montet (Glâne),2,https://example.ch,Lorem Impsum
+2096,Romont (FR),3,https://example.ch,Lorem Impsum
+2097,Rue,4,https://example.ch,Lorem Impsum
+2099,Siviriez,4,https://example.ch,Lorem Impsum
+2102,Ursy,3,https://example.ch,Lorem Impsum
+2113,Vuisternens-devant-Romont,2,https://example.ch,Lorem Impsum
+2114,Villorsonnens,1,https://example.ch,Lorem Impsum
+2115,Torny,1,https://example.ch,Lorem Impsum
+2117,Villaz,2,https://example.ch,Lorem Impsum
+2121,Haut-Intyamon,3,https://example.ch,Lorem Impsum
+2122,Pont-en-Ogoz,4,https://example.ch,Lorem Impsum
+2123,Botterens,4,https://example.ch,Lorem Impsum
+2124,Broc,3,https://example.ch,Lorem Impsum
+2125,Bulle,2,https://example.ch,Lorem Impsum
+2128,Châtel-sur-Montsalvens,1,https://example.ch,Lorem Impsum
+2129,Corbières,1,https://example.ch,Lorem Impsum
+2130,Crésuz,2,https://example.ch,Lorem Impsum
+2131,Echarlens,3,https://example.ch,Lorem Impsum
+2134,Grandvillard,4,https://example.ch,Lorem Impsum
+2135,Gruyères,4,https://example.ch,Lorem Impsum
+2137,Hauteville,3,https://example.ch,Lorem Impsum
+2138,Jaun,2,https://example.ch,Lorem Impsum
+2140,Marsens,1,https://example.ch,Lorem Impsum
+2143,Morlon,1,https://example.ch,Lorem Impsum
+2145,Le Pâquier (FR),2,https://example.ch,Lorem Impsum
+2147,Pont-la-Ville,3,https://example.ch,Lorem Impsum
+2148,Riaz,4,https://example.ch,Lorem Impsum
+2149,La Roche,4,https://example.ch,Lorem Impsum
+2152,Sâles,3,https://example.ch,Lorem Impsum
+2153,Sorens,2,https://example.ch,Lorem Impsum
+2155,Vaulruz,1,https://example.ch,Lorem Impsum
+2160,Vuadens,1,https://example.ch,Lorem Impsum
+2162,Bas-Intyamon,2,https://example.ch,Lorem Impsum
+2163,Val-de-Charmey,3,https://example.ch,Lorem Impsum
+2173,Autigny,4,https://example.ch,Lorem Impsum
+2174,Avry,4,https://example.ch,Lorem Impsum
+2175,Belfaux,3,https://example.ch,Lorem Impsum
+2177,Chénens,2,https://example.ch,Lorem Impsum
+2183,Corminboeuf,1,https://example.ch,Lorem Impsum
+2186,Cottens (FR),1,https://example.ch,Lorem Impsum
+2194,Ferpicloz,2,https://example.ch,Lorem Impsum
+2196,Fribourg,3,https://example.ch,Lorem Impsum
+2197,Givisiez,4,https://example.ch,Lorem Impsum
+2198,Granges-Paccot,4,https://example.ch,Lorem Impsum
+2200,Grolley,3,https://example.ch,Lorem Impsum
+2206,Marly,2,https://example.ch,Lorem Impsum
+2208,Matran,1,https://example.ch,Lorem Impsum
+2211,Neyruz (FR),1,https://example.ch,Lorem Impsum
+2216,Pierrafortscha,2,https://example.ch,Lorem Impsum
+2217,Ponthaux,3,https://example.ch,Lorem Impsum
+2220,Le Mouret,4,https://example.ch,Lorem Impsum
+2226,Treyvaux,4,https://example.ch,Lorem Impsum
+2228,Villars-sur-Glâne,3,https://example.ch,Lorem Impsum
+2230,Villarsel-sur-Marly,2,https://example.ch,Lorem Impsum
+2233,Hauterive (FR),1,https://example.ch,Lorem Impsum
+2234,La Brillaz,1,https://example.ch,Lorem Impsum
+2235,La Sonnaz,2,https://example.ch,Lorem Impsum
+2236,Gibloux,3,https://example.ch,Lorem Impsum
+2237,Prez,4,https://example.ch,Lorem Impsum
+2238,Bois-d'Amont,4,https://example.ch,Lorem Impsum
+2250,Courgevaux,3,https://example.ch,Lorem Impsum
+2254,Courtepin,2,https://example.ch,Lorem Impsum
+2257,Cressier (FR),1,https://example.ch,Lorem Impsum
+2258,Fräschels,1,https://example.ch,Lorem Impsum
+2259,Galmiz,2,https://example.ch,Lorem Impsum
+2260,Gempenach,3,https://example.ch,Lorem Impsum
+2261,Greng,4,https://example.ch,Lorem Impsum
+2262,Gurmels,4,https://example.ch,Lorem Impsum
+2265,Kerzers,3,https://example.ch,Lorem Impsum
+2266,Kleinbösingen,2,https://example.ch,Lorem Impsum
+2271,Meyriez,1,https://example.ch,Lorem Impsum
+2272,Misery-Courtion,1,https://example.ch,Lorem Impsum
+2274,Muntelier,2,https://example.ch,Lorem Impsum
+2275,Murten,3,https://example.ch,Lorem Impsum
+2276,Ried bei Kerzers,4,https://example.ch,Lorem Impsum
+2278,Ulmiz,4,https://example.ch,Lorem Impsum
+2284,Mont-Vully,3,https://example.ch,Lorem Impsum
+2292,Brünisried,2,https://example.ch,Lorem Impsum
+2293,Düdingen,1,https://example.ch,Lorem Impsum
+2294,Giffers,1,https://example.ch,Lorem Impsum
+2295,Bösingen,2,https://example.ch,Lorem Impsum
+2296,Heitenried,3,https://example.ch,Lorem Impsum
+2299,Plaffeien,4,https://example.ch,Lorem Impsum
+2300,Plasselb,4,https://example.ch,Lorem Impsum
+2301,Rechthalten,3,https://example.ch,Lorem Impsum
+2303,St. Silvester,2,https://example.ch,Lorem Impsum
+2304,St. Ursen,1,https://example.ch,Lorem Impsum
+2305,Schmitten (FR),1,https://example.ch,Lorem Impsum
+2306,Tafers,2,https://example.ch,Lorem Impsum
+2307,Tentlingen,3,https://example.ch,Lorem Impsum
+2308,Ueberstorf,4,https://example.ch,Lorem Impsum
+2309,Wünnewil-Flamatt,4,https://example.ch,Lorem Impsum
+2321,Attalens,3,https://example.ch,Lorem Impsum
+2323,Bossonnens,2,https://example.ch,Lorem Impsum
+2325,Châtel-Saint-Denis,1,https://example.ch,Lorem Impsum
+2328,Granges (Veveyse),1,https://example.ch,Lorem Impsum
+2333,Remaufens,2,https://example.ch,Lorem Impsum
+2335,Saint-Martin (FR),3,https://example.ch,Lorem Impsum
+2336,Semsales,4,https://example.ch,Lorem Impsum
+2337,Le Flon,4,https://example.ch,Lorem Impsum
+2338,La Verrerie,3,https://example.ch,Lorem Impsum
+2401,Egerkingen,2,https://example.ch,Lorem Impsum
+2402,Härkingen,1,https://example.ch,Lorem Impsum
+2403,Kestenholz,1,https://example.ch,Lorem Impsum
+2404,Neuendorf,2,https://example.ch,Lorem Impsum
+2405,Niederbuchsiten,3,https://example.ch,Lorem Impsum
+2406,Oberbuchsiten,4,https://example.ch,Lorem Impsum
+2407,Oensingen,4,https://example.ch,Lorem Impsum
+2408,Wolfwil,3,https://example.ch,Lorem Impsum
+2421,Aedermannsdorf,2,https://example.ch,Lorem Impsum
+2422,Balsthal,1,https://example.ch,Lorem Impsum
+2424,Herbetswil,1,https://example.ch,Lorem Impsum
+2425,Holderbank (SO),2,https://example.ch,Lorem Impsum
+2426,Laupersdorf,3,https://example.ch,Lorem Impsum
+2427,Matzendorf,4,https://example.ch,Lorem Impsum
+2428,Mümliswil-Ramiswil,4,https://example.ch,Lorem Impsum
+2430,Welschenrohr-Gänsbrunnen,3,https://example.ch,Lorem Impsum
+2445,Biezwil,2,https://example.ch,Lorem Impsum
+2455,Lüterkofen-Ichertswil,1,https://example.ch,Lorem Impsum
+2456,Lüterswil-Gächliwil,1,https://example.ch,Lorem Impsum
+2457,Messen,2,https://example.ch,Lorem Impsum
+2461,Schnottwil,3,https://example.ch,Lorem Impsum
+2463,Unterramsern,4,https://example.ch,Lorem Impsum
+2464,Lüsslingen-Nennigkofen,4,https://example.ch,Lorem Impsum
+2465,Buchegg,3,https://example.ch,Lorem Impsum
+2471,Bättwil,2,https://example.ch,Lorem Impsum
+2472,Büren (SO),1,https://example.ch,Lorem Impsum
+2473,Dornach,1,https://example.ch,Lorem Impsum
+2474,Gempen,2,https://example.ch,Lorem Impsum
+2475,Hochwald,3,https://example.ch,Lorem Impsum
+2476,Hofstetten-Flüh,4,https://example.ch,Lorem Impsum
+2477,Metzerlen-Mariastein,4,https://example.ch,Lorem Impsum
+2478,Nuglar-St. Pantaleon,3,https://example.ch,Lorem Impsum
+2479,Rodersdorf,2,https://example.ch,Lorem Impsum
+2480,Seewen,1,https://example.ch,Lorem Impsum
+2481,Witterswil,1,https://example.ch,Lorem Impsum
+2491,Hauenstein-Ifenthal,2,https://example.ch,Lorem Impsum
+2492,Kienberg,3,https://example.ch,Lorem Impsum
+2493,Lostorf,4,https://example.ch,Lorem Impsum
+2495,Niedergösgen,4,https://example.ch,Lorem Impsum
+2497,Obergösgen,3,https://example.ch,Lorem Impsum
+2499,Stüsslingen,2,https://example.ch,Lorem Impsum
+2500,Trimbach,1,https://example.ch,Lorem Impsum
+2501,Winznau,1,https://example.ch,Lorem Impsum
+2502,Wisen (SO),2,https://example.ch,Lorem Impsum
+2503,Erlinsbach (SO),3,https://example.ch,Lorem Impsum
+2511,Aeschi (SO),4,https://example.ch,Lorem Impsum
+2513,Biberist,4,https://example.ch,Lorem Impsum
+2514,Bolken,3,https://example.ch,Lorem Impsum
+2516,Deitingen,2,https://example.ch,Lorem Impsum
+2517,Derendingen,1,https://example.ch,Lorem Impsum
+2518,Etziken,1,https://example.ch,Lorem Impsum
+2519,Gerlafingen,2,https://example.ch,Lorem Impsum
+2520,Halten,3,https://example.ch,Lorem Impsum
+2523,Horriwil,4,https://example.ch,Lorem Impsum
+2524,Hüniken,4,https://example.ch,Lorem Impsum
+2525,Kriegstetten,3,https://example.ch,Lorem Impsum
+2526,Lohn-Ammannsegg,2,https://example.ch,Lorem Impsum
+2527,Luterbach,1,https://example.ch,Lorem Impsum
+2528,Obergerlafingen,1,https://example.ch,Lorem Impsum
+2529,Oekingen,2,https://example.ch,Lorem Impsum
+2530,Recherswil,3,https://example.ch,Lorem Impsum
+2532,Subingen,4,https://example.ch,Lorem Impsum
+2534,Zuchwil,4,https://example.ch,Lorem Impsum
+2535,Drei Höfe,3,https://example.ch,Lorem Impsum
+2541,Balm bei Günsberg,2,https://example.ch,Lorem Impsum
+2542,Bellach,1,https://example.ch,Lorem Impsum
+2543,Bettlach,1,https://example.ch,Lorem Impsum
+2544,Feldbrunnen-St. Niklaus,2,https://example.ch,Lorem Impsum
+2545,Flumenthal,3,https://example.ch,Lorem Impsum
+2546,Grenchen,4,https://example.ch,Lorem Impsum
+2547,Günsberg,4,https://example.ch,Lorem Impsum
+2548,Hubersdorf,3,https://example.ch,Lorem Impsum
+2549,Kammersrohr,2,https://example.ch,Lorem Impsum
+2550,Langendorf,1,https://example.ch,Lorem Impsum
+2551,Lommiswil,1,https://example.ch,Lorem Impsum
+2553,Oberdorf (SO),2,https://example.ch,Lorem Impsum
+2554,Riedholz,3,https://example.ch,Lorem Impsum
+2555,Rüttenen,4,https://example.ch,Lorem Impsum
+2556,Selzach,4,https://example.ch,Lorem Impsum
+2571,Boningen,3,https://example.ch,Lorem Impsum
+2572,Däniken,2,https://example.ch,Lorem Impsum
+2573,Dulliken,1,https://example.ch,Lorem Impsum
+2574,Eppenberg-Wöschnau,1,https://example.ch,Lorem Impsum
+2575,Fulenbach,2,https://example.ch,Lorem Impsum
+2576,Gretzenbach,3,https://example.ch,Lorem Impsum
+2578,Gunzgen,4,https://example.ch,Lorem Impsum
+2579,Hägendorf,4,https://example.ch,Lorem Impsum
+2580,Kappel (SO),3,https://example.ch,Lorem Impsum
+2581,Olten,2,https://example.ch,Lorem Impsum
+2582,Rickenbach (SO),1,https://example.ch,Lorem Impsum
+2583,Schönenwerd,1,https://example.ch,Lorem Impsum
+2584,Starrkirch-Wil,2,https://example.ch,Lorem Impsum
+2585,Walterswil (SO),3,https://example.ch,Lorem Impsum
+2586,Wangen bei Olten,4,https://example.ch,Lorem Impsum
+2601,Solothurn,4,https://example.ch,Lorem Impsum
+2611,Bärschwil,3,https://example.ch,Lorem Impsum
+2612,Beinwil (SO),2,https://example.ch,Lorem Impsum
+2613,Breitenbach,1,https://example.ch,Lorem Impsum
+2614,Büsserach,1,https://example.ch,Lorem Impsum
+2615,Erschwil,2,https://example.ch,Lorem Impsum
+2616,Fehren,3,https://example.ch,Lorem Impsum
+2617,Grindel,4,https://example.ch,Lorem Impsum
+2618,Himmelried,4,https://example.ch,Lorem Impsum
+2619,Kleinlützel,3,https://example.ch,Lorem Impsum
+2620,Meltingen,2,https://example.ch,Lorem Impsum
+2621,Nunningen,1,https://example.ch,Lorem Impsum
+2622,Zullwil,1,https://example.ch,Lorem Impsum
+2701,Basel,2,https://example.ch,Lorem Impsum
+2702,Bettingen,3,https://example.ch,Lorem Impsum
+2703,Riehen,4,https://example.ch,Lorem Impsum
+2761,Aesch (BL),4,https://example.ch,Lorem Impsum
+2762,Allschwil,3,https://example.ch,Lorem Impsum
+2763,Arlesheim,2,https://example.ch,Lorem Impsum
+2764,Biel-Benken,1,https://example.ch,Lorem Impsum
+2765,Binningen,1,https://example.ch,Lorem Impsum
+2766,Birsfelden,2,https://example.ch,Lorem Impsum
+2767,Bottmingen,3,https://example.ch,Lorem Impsum
+2768,Ettingen,4,https://example.ch,Lorem Impsum
+2769,Münchenstein,4,https://example.ch,Lorem Impsum
+2770,Muttenz,3,https://example.ch,Lorem Impsum
+2771,Oberwil (BL),2,https://example.ch,Lorem Impsum
+2772,Pfeffingen,1,https://example.ch,Lorem Impsum
+2773,Reinach (BL),1,https://example.ch,Lorem Impsum
+2774,Schönenbuch,2,https://example.ch,Lorem Impsum
+2775,Therwil,3,https://example.ch,Lorem Impsum
+2781,Blauen,4,https://example.ch,Lorem Impsum
+2782,Brislach,4,https://example.ch,Lorem Impsum
+2783,Burg im Leimental,3,https://example.ch,Lorem Impsum
+2784,Dittingen,2,https://example.ch,Lorem Impsum
+2785,Duggingen,1,https://example.ch,Lorem Impsum
+2786,Grellingen,1,https://example.ch,Lorem Impsum
+2787,Laufen,2,https://example.ch,Lorem Impsum
+2788,Liesberg,3,https://example.ch,Lorem Impsum
+2789,Nenzlingen,4,https://example.ch,Lorem Impsum
+2790,Roggenburg,4,https://example.ch,Lorem Impsum
+2791,Röschenz,3,https://example.ch,Lorem Impsum
+2792,Wahlen,2,https://example.ch,Lorem Impsum
+2793,Zwingen,1,https://example.ch,Lorem Impsum
+2821,Arisdorf,1,https://example.ch,Lorem Impsum
+2822,Augst,2,https://example.ch,Lorem Impsum
+2823,Bubendorf,3,https://example.ch,Lorem Impsum
+2824,Frenkendorf,4,https://example.ch,Lorem Impsum
+2825,Füllinsdorf,4,https://example.ch,Lorem Impsum
+2826,Giebenach,3,https://example.ch,Lorem Impsum
+2827,Hersberg,2,https://example.ch,Lorem Impsum
+2828,Lausen,1,https://example.ch,Lorem Impsum
+2829,Liestal,1,https://example.ch,Lorem Impsum
+2830,Lupsingen,2,https://example.ch,Lorem Impsum
+2831,Pratteln,3,https://example.ch,Lorem Impsum
+2832,Ramlinsburg,4,https://example.ch,Lorem Impsum
+2833,Seltisberg,4,https://example.ch,Lorem Impsum
+2834,Ziefen,3,https://example.ch,Lorem Impsum
+2841,Anwil,2,https://example.ch,Lorem Impsum
+2842,Böckten,1,https://example.ch,Lorem Impsum
+2843,Buckten,1,https://example.ch,Lorem Impsum
+2844,Buus,2,https://example.ch,Lorem Impsum
+2845,Diepflingen,3,https://example.ch,Lorem Impsum
+2846,Gelterkinden,4,https://example.ch,Lorem Impsum
+2847,Häfelfingen,4,https://example.ch,Lorem Impsum
+2848,Hemmiken,3,https://example.ch,Lorem Impsum
+2849,Itingen,2,https://example.ch,Lorem Impsum
+2850,Känerkinden,1,https://example.ch,Lorem Impsum
+2851,Kilchberg (BL),1,https://example.ch,Lorem Impsum
+2852,Läufelfingen,2,https://example.ch,Lorem Impsum
+2853,Maisprach,3,https://example.ch,Lorem Impsum
+2854,Nusshof,4,https://example.ch,Lorem Impsum
+2855,Oltingen,4,https://example.ch,Lorem Impsum
+2856,Ormalingen,3,https://example.ch,Lorem Impsum
+2857,Rickenbach (BL),2,https://example.ch,Lorem Impsum
+2858,Rothenfluh,1,https://example.ch,Lorem Impsum
+2859,Rümlingen,1,https://example.ch,Lorem Impsum
+2860,Rünenberg,2,https://example.ch,Lorem Impsum
+2861,Sissach,3,https://example.ch,Lorem Impsum
+2862,Tecknau,4,https://example.ch,Lorem Impsum
+2863,Tenniken,4,https://example.ch,Lorem Impsum
+2864,Thürnen,3,https://example.ch,Lorem Impsum
+2865,Wenslingen,2,https://example.ch,Lorem Impsum
+2866,Wintersingen,1,https://example.ch,Lorem Impsum
+2867,Wittinsburg,1,https://example.ch,Lorem Impsum
+2868,Zeglingen,2,https://example.ch,Lorem Impsum
+2869,Zunzgen,3,https://example.ch,Lorem Impsum
+2881,Arboldswil,4,https://example.ch,Lorem Impsum
+2882,Bennwil,4,https://example.ch,Lorem Impsum
+2883,Bretzwil,3,https://example.ch,Lorem Impsum
+2884,Diegten,2,https://example.ch,Lorem Impsum
+2885,Eptingen,1,https://example.ch,Lorem Impsum
+2886,Hölstein,1,https://example.ch,Lorem Impsum
+2887,Lampenberg,2,https://example.ch,Lorem Impsum
+2888,Langenbruck,3,https://example.ch,Lorem Impsum
+2889,Lauwil,4,https://example.ch,Lorem Impsum
+2890,Liedertswil,4,https://example.ch,Lorem Impsum
+2891,Niederdorf,3,https://example.ch,Lorem Impsum
+2892,Oberdorf (BL),2,https://example.ch,Lorem Impsum
+2893,Reigoldswil,1,https://example.ch,Lorem Impsum
+2894,Titterten,1,https://example.ch,Lorem Impsum
+2895,Waldenburg,2,https://example.ch,Lorem Impsum
+2901,Gächlingen,3,https://example.ch,Lorem Impsum
+2903,Löhningen,4,https://example.ch,Lorem Impsum
+2904,Neunkirch,4,https://example.ch,Lorem Impsum
+2914,Büttenhardt,3,https://example.ch,Lorem Impsum
+2915,Dörflingen,2,https://example.ch,Lorem Impsum
+2917,Lohn (SH),1,https://example.ch,Lorem Impsum
+2919,Stetten (SH),1,https://example.ch,Lorem Impsum
+2920,Thayngen,2,https://example.ch,Lorem Impsum
+2931,Bargen (SH),3,https://example.ch,Lorem Impsum
+2932,Beringen,4,https://example.ch,Lorem Impsum
+2933,Buchberg,4,https://example.ch,Lorem Impsum
+2936,Merishausen,3,https://example.ch,Lorem Impsum
+2937,Neuhausen am Rheinfall,2,https://example.ch,Lorem Impsum
+2938,Rüdlingen,1,https://example.ch,Lorem Impsum
+2939,Schaffhausen,1,https://example.ch,Lorem Impsum
+2951,Beggingen,2,https://example.ch,Lorem Impsum
+2952,Schleitheim,3,https://example.ch,Lorem Impsum
+2953,Siblingen,4,https://example.ch,Lorem Impsum
+2961,Buch (SH),4,https://example.ch,Lorem Impsum
+2962,Hemishofen,3,https://example.ch,Lorem Impsum
+2963,Ramsen,2,https://example.ch,Lorem Impsum
+2964,Stein am Rhein,1,https://example.ch,Lorem Impsum
+2971,Hallau,1,https://example.ch,Lorem Impsum
+2972,Oberhallau,2,https://example.ch,Lorem Impsum
+2973,Trasadingen,3,https://example.ch,Lorem Impsum
+2974,Wilchingen,4,https://example.ch,Lorem Impsum
+3001,Herisau,4,https://example.ch,Lorem Impsum
+3002,Hundwil,3,https://example.ch,Lorem Impsum
+3003,Schönengrund,2,https://example.ch,Lorem Impsum
+3004,Schwellbrunn,1,https://example.ch,Lorem Impsum
+3005,Stein (AR),1,https://example.ch,Lorem Impsum
+3006,Urnäsch,2,https://example.ch,Lorem Impsum
+3007,Waldstatt,3,https://example.ch,Lorem Impsum
+3021,Bühler,4,https://example.ch,Lorem Impsum
+3022,Gais,4,https://example.ch,Lorem Impsum
+3023,Speicher,3,https://example.ch,Lorem Impsum
+3024,Teufen (AR),2,https://example.ch,Lorem Impsum
+3025,Trogen,1,https://example.ch,Lorem Impsum
+3031,Grub (AR),1,https://example.ch,Lorem Impsum
+3032,Heiden,2,https://example.ch,Lorem Impsum
+3033,Lutzenberg,3,https://example.ch,Lorem Impsum
+3034,Rehetobel,4,https://example.ch,Lorem Impsum
+3035,Reute (AR),4,https://example.ch,Lorem Impsum
+3036,Wald (AR),3,https://example.ch,Lorem Impsum
+3037,Walzenhausen,2,https://example.ch,Lorem Impsum
+3038,Wolfhalden,1,https://example.ch,Lorem Impsum
+3101,Appenzell,1,https://example.ch,Lorem Impsum
+3102,Gonten,2,https://example.ch,Lorem Impsum
+3103,Rüte,3,https://example.ch,Lorem Impsum
+3104,Schlatt-Haslen,4,https://example.ch,Lorem Impsum
+3105,Schwende,4,https://example.ch,Lorem Impsum
+3111,Oberegg,3,https://example.ch,Lorem Impsum
+3201,Häggenschwil,2,https://example.ch,Lorem Impsum
+3202,Muolen,1,https://example.ch,Lorem Impsum
+3203,St. Gallen,1,https://example.ch,Lorem Impsum
+3204,Wittenbach,2,https://example.ch,Lorem Impsum
+3211,Berg (SG),3,https://example.ch,Lorem Impsum
+3212,Eggersriet,4,https://example.ch,Lorem Impsum
+3213,Goldach,4,https://example.ch,Lorem Impsum
+3214,Mörschwil,3,https://example.ch,Lorem Impsum
+3215,Rorschach,2,https://example.ch,Lorem Impsum
+3216,Rorschacherberg,1,https://example.ch,Lorem Impsum
+3217,Steinach,1,https://example.ch,Lorem Impsum
+3218,Tübach,2,https://example.ch,Lorem Impsum
+3219,Untereggen,3,https://example.ch,Lorem Impsum
+3231,Au (SG),4,https://example.ch,Lorem Impsum
+3232,Balgach,4,https://example.ch,Lorem Impsum
+3233,Berneck,3,https://example.ch,Lorem Impsum
+3234,Diepoldsau,2,https://example.ch,Lorem Impsum
+3235,Rheineck,1,https://example.ch,Lorem Impsum
+3236,St. Margrethen,1,https://example.ch,Lorem Impsum
+3237,Thal,2,https://example.ch,Lorem Impsum
+3238,Widnau,3,https://example.ch,Lorem Impsum
+3251,Altstätten,4,https://example.ch,Lorem Impsum
+3252,Eichberg,4,https://example.ch,Lorem Impsum
+3253,Marbach (SG),3,https://example.ch,Lorem Impsum
+3254,Oberriet (SG),2,https://example.ch,Lorem Impsum
+3255,Rebstein,1,https://example.ch,Lorem Impsum
+3256,Rüthi (SG),1,https://example.ch,Lorem Impsum
+3271,Buchs (SG),2,https://example.ch,Lorem Impsum
+3272,Gams,3,https://example.ch,Lorem Impsum
+3273,Grabs,4,https://example.ch,Lorem Impsum
+3274,Sennwald,4,https://example.ch,Lorem Impsum
+3275,Sevelen,3,https://example.ch,Lorem Impsum
+3276,Wartau,2,https://example.ch,Lorem Impsum
+3291,Bad Ragaz,1,https://example.ch,Lorem Impsum
+3292,Flums,1,https://example.ch,Lorem Impsum
+3293,Mels,2,https://example.ch,Lorem Impsum
+3294,Pfäfers,3,https://example.ch,Lorem Impsum
+3295,Quarten,4,https://example.ch,Lorem Impsum
+3296,Sargans,4,https://example.ch,Lorem Impsum
+3297,Vilters-Wangs,3,https://example.ch,Lorem Impsum
+3298,Walenstadt,2,https://example.ch,Lorem Impsum
+3311,Amden,1,https://example.ch,Lorem Impsum
+3312,Benken (SG),1,https://example.ch,Lorem Impsum
+3313,Kaltbrunn,2,https://example.ch,Lorem Impsum
+3315,Schänis,3,https://example.ch,Lorem Impsum
+3316,Weesen,4,https://example.ch,Lorem Impsum
+3338,Schmerikon,4,https://example.ch,Lorem Impsum
+3339,Uznach,3,https://example.ch,Lorem Impsum
+3340,Rapperswil-Jona,2,https://example.ch,Lorem Impsum
+3341,Gommiswald,1,https://example.ch,Lorem Impsum
+3342,Eschenbach (SG),1,https://example.ch,Lorem Impsum
+3352,Ebnat-Kappel,2,https://example.ch,Lorem Impsum
+3359,Wildhaus-Alt St. Johann,3,https://example.ch,Lorem Impsum
+3360,Nesslau,4,https://example.ch,Lorem Impsum
+3372,Hemberg,4,https://example.ch,Lorem Impsum
+3374,Lichtensteig,3,https://example.ch,Lorem Impsum
+3375,Oberhelfenschwil,2,https://example.ch,Lorem Impsum
+3378,Neckertal,1,https://example.ch,Lorem Impsum
+3379,Wattwil,1,https://example.ch,Lorem Impsum
+3392,Kirchberg (SG),2,https://example.ch,Lorem Impsum
+3393,Lütisburg,3,https://example.ch,Lorem Impsum
+3394,Mosnang,4,https://example.ch,Lorem Impsum
+3395,Bütschwil-Ganterschwil,4,https://example.ch,Lorem Impsum
+3401,Degersheim,3,https://example.ch,Lorem Impsum
+3402,Flawil,2,https://example.ch,Lorem Impsum
+3405,Jonschwil,1,https://example.ch,Lorem Impsum
+3407,Oberuzwil,1,https://example.ch,Lorem Impsum
+3408,Uzwil,2,https://example.ch,Lorem Impsum
+3422,Niederbüren,3,https://example.ch,Lorem Impsum
+3423,Niederhelfenschwil,4,https://example.ch,Lorem Impsum
+3424,Oberbüren,4,https://example.ch,Lorem Impsum
+3426,Zuzwil (SG),3,https://example.ch,Lorem Impsum
+3427,Wil (SG),2,https://example.ch,Lorem Impsum
+3441,Andwil (SG),1,https://example.ch,Lorem Impsum
+3442,Gaiserwald,1,https://example.ch,Lorem Impsum
+3443,Gossau (SG),2,https://example.ch,Lorem Impsum
+3444,Waldkirch,3,https://example.ch,Lorem Impsum
+3506,Vaz/Obervaz,4,https://example.ch,Lorem Impsum
+3513,Lantsch/Lenz,4,https://example.ch,Lorem Impsum
+3514,Schmitten (GR),3,https://example.ch,Lorem Impsum
+3542,Albula/Alvra,2,https://example.ch,Lorem Impsum
+3543,Surses,1,https://example.ch,Lorem Impsum
+3544,Bergün Filisur,1,https://example.ch,Lorem Impsum
+3551,Brusio,2,https://example.ch,Lorem Impsum
+3561,Poschiavo,3,https://example.ch,Lorem Impsum
+3572,Falera,4,https://example.ch,Lorem Impsum
+3575,Laax,4,https://example.ch,Lorem Impsum
+3581,Sagogn,3,https://example.ch,Lorem Impsum
+3582,Schluein,2,https://example.ch,Lorem Impsum
+3603,Vals,1,https://example.ch,Lorem Impsum
+3618,Lumnezia,1,https://example.ch,Lorem Impsum
+3619,Ilanz/Glion,2,https://example.ch,Lorem Impsum
+3633,Fürstenau,3,https://example.ch,Lorem Impsum
+3637,Rothenbrunnen,4,https://example.ch,Lorem Impsum
+3638,Scharans,4,https://example.ch,Lorem Impsum
+3640,Sils im Domleschg,3,https://example.ch,Lorem Impsum
+3661,Cazis,2,https://example.ch,Lorem Impsum
+3662,Flerden,1,https://example.ch,Lorem Impsum
+3663,Masein,1,https://example.ch,Lorem Impsum
+3668,Thusis,2,https://example.ch,Lorem Impsum
+3669,Tschappina,3,https://example.ch,Lorem Impsum
+3670,Urmein,4,https://example.ch,Lorem Impsum
+3672,Safiental,4,https://example.ch,Lorem Impsum
+3673,Domleschg,3,https://example.ch,Lorem Impsum
+3681,Avers,2,https://example.ch,Lorem Impsum
+3695,Sufers,1,https://example.ch,Lorem Impsum
+3701,Andeer,1,https://example.ch,Lorem Impsum
+3711,Rongellen,2,https://example.ch,Lorem Impsum
+3712,Zillis-Reischen,3,https://example.ch,Lorem Impsum
+3713,Ferrera,4,https://example.ch,Lorem Impsum
+3714,Rheinwald,4,https://example.ch,Lorem Impsum
+3715,Muntogna da Schons,3,https://example.ch,Lorem Impsum
+3721,Bonaduz,2,https://example.ch,Lorem Impsum
+3722,Domat/Ems,1,https://example.ch,Lorem Impsum
+3723,Rhäzüns,1,https://example.ch,Lorem Impsum
+3731,Felsberg,2,https://example.ch,Lorem Impsum
+3732,Flims,3,https://example.ch,Lorem Impsum
+3733,Tamins,4,https://example.ch,Lorem Impsum
+3734,Trin,4,https://example.ch,Lorem Impsum
+3746,Zernez,3,https://example.ch,Lorem Impsum
+3752,Samnaun,2,https://example.ch,Lorem Impsum
+3762,Scuol,1,https://example.ch,Lorem Impsum
+3764,Valsot,1,https://example.ch,Lorem Impsum
+3781,Bever,2,https://example.ch,Lorem Impsum
+3782,Celerina/Schlarigna,3,https://example.ch,Lorem Impsum
+3783,Madulain,4,https://example.ch,Lorem Impsum
+3784,Pontresina,4,https://example.ch,Lorem Impsum
+3785,La Punt Chamues-ch,3,https://example.ch,Lorem Impsum
+3786,Samedan,2,https://example.ch,Lorem Impsum
+3787,St. Moritz,1,https://example.ch,Lorem Impsum
+3788,S-chanf,1,https://example.ch,Lorem Impsum
+3789,Sils im Engadin/Segl,2,https://example.ch,Lorem Impsum
+3790,Silvaplana,3,https://example.ch,Lorem Impsum
+3791,Zuoz,4,https://example.ch,Lorem Impsum
+3792,Bregaglia,4,https://example.ch,Lorem Impsum
+3804,Buseno,3,https://example.ch,Lorem Impsum
+3805,Castaneda,2,https://example.ch,Lorem Impsum
+3808,Rossa,1,https://example.ch,Lorem Impsum
+3810,Santa Maria in Calanca,1,https://example.ch,Lorem Impsum
+3821,Lostallo,2,https://example.ch,Lorem Impsum
+3822,Mesocco,3,https://example.ch,Lorem Impsum
+3823,Soazza,4,https://example.ch,Lorem Impsum
+3831,Cama,4,https://example.ch,Lorem Impsum
+3832,Grono,3,https://example.ch,Lorem Impsum
+3834,Roveredo (GR),2,https://example.ch,Lorem Impsum
+3835,San Vittore,1,https://example.ch,Lorem Impsum
+3837,Calanca,1,https://example.ch,Lorem Impsum
+3847,Val Müstair,2,https://example.ch,Lorem Impsum
+3851,Davos,3,https://example.ch,Lorem Impsum
+3861,Fideris,4,https://example.ch,Lorem Impsum
+3862,Furna,4,https://example.ch,Lorem Impsum
+3863,Jenaz,3,https://example.ch,Lorem Impsum
+3871,Klosters,2,https://example.ch,Lorem Impsum
+3881,Conters im Prättigau,1,https://example.ch,Lorem Impsum
+3882,Küblis,1,https://example.ch,Lorem Impsum
+3891,Luzein,2,https://example.ch,Lorem Impsum
+3901,Chur,3,https://example.ch,Lorem Impsum
+3911,Churwalden,4,https://example.ch,Lorem Impsum
+3921,Arosa,4,https://example.ch,Lorem Impsum
+3932,Tschiertschen-Praden,3,https://example.ch,Lorem Impsum
+3945,Trimmis,2,https://example.ch,Lorem Impsum
+3946,Untervaz,1,https://example.ch,Lorem Impsum
+3947,Zizers,1,https://example.ch,Lorem Impsum
+3951,Fläsch,2,https://example.ch,Lorem Impsum
+3952,Jenins,3,https://example.ch,Lorem Impsum
+3953,Maienfeld,4,https://example.ch,Lorem Impsum
+3954,Malans,4,https://example.ch,Lorem Impsum
+3955,Landquart,3,https://example.ch,Lorem Impsum
+3961,Grüsch,2,https://example.ch,Lorem Impsum
+3962,Schiers,1,https://example.ch,Lorem Impsum
+3972,Seewis im Prättigau,1,https://example.ch,Lorem Impsum
+3981,Breil/Brigels,2,https://example.ch,Lorem Impsum
+3982,Disentis/Mustér,3,https://example.ch,Lorem Impsum
+3983,Medel (Lucmagn),4,https://example.ch,Lorem Impsum
+3985,Sumvitg,4,https://example.ch,Lorem Impsum
+3986,Tujetsch,3,https://example.ch,Lorem Impsum
+3987,Trun,2,https://example.ch,Lorem Impsum
+3988,Obersaxen Mundaun,1,https://example.ch,Lorem Impsum
+4001,Aarau,1,https://example.ch,Lorem Impsum
+4002,Biberstein,2,https://example.ch,Lorem Impsum
+4003,Buchs (AG),3,https://example.ch,Lorem Impsum
+4004,Densbüren,4,https://example.ch,Lorem Impsum
+4005,Erlinsbach (AG),4,https://example.ch,Lorem Impsum
+4006,Gränichen,3,https://example.ch,Lorem Impsum
+4007,Hirschthal,2,https://example.ch,Lorem Impsum
+4008,Küttigen,1,https://example.ch,Lorem Impsum
+4009,Muhen,1,https://example.ch,Lorem Impsum
+4010,Oberentfelden,2,https://example.ch,Lorem Impsum
+4012,Suhr,3,https://example.ch,Lorem Impsum
+4013,Unterentfelden,4,https://example.ch,Lorem Impsum
+4021,Baden,4,https://example.ch,Lorem Impsum
+4022,Bellikon,3,https://example.ch,Lorem Impsum
+4023,Bergdietikon,2,https://example.ch,Lorem Impsum
+4024,Birmenstorf (AG),1,https://example.ch,Lorem Impsum
+4026,Ennetbaden,1,https://example.ch,Lorem Impsum
+4027,Fislisbach,2,https://example.ch,Lorem Impsum
+4028,Freienwil,3,https://example.ch,Lorem Impsum
+4029,Gebenstorf,4,https://example.ch,Lorem Impsum
+4030,Killwangen,4,https://example.ch,Lorem Impsum
+4031,Künten,3,https://example.ch,Lorem Impsum
+4032,Mägenwil,2,https://example.ch,Lorem Impsum
+4033,Mellingen,1,https://example.ch,Lorem Impsum
+4034,Neuenhof,1,https://example.ch,Lorem Impsum
+4035,Niederrohrdorf,2,https://example.ch,Lorem Impsum
+4037,Oberrohrdorf,3,https://example.ch,Lorem Impsum
+4038,Obersiggenthal,4,https://example.ch,Lorem Impsum
+4039,Remetschwil,4,https://example.ch,Lorem Impsum
+4040,Spreitenbach,3,https://example.ch,Lorem Impsum
+4041,Stetten (AG),2,https://example.ch,Lorem Impsum
+4042,Turgi,1,https://example.ch,Lorem Impsum
+4044,Untersiggenthal,1,https://example.ch,Lorem Impsum
+4045,Wettingen,2,https://example.ch,Lorem Impsum
+4046,Wohlenschwil,3,https://example.ch,Lorem Impsum
+4047,Würenlingen,4,https://example.ch,Lorem Impsum
+4048,Würenlos,4,https://example.ch,Lorem Impsum
+4049,Ehrendingen,3,https://example.ch,Lorem Impsum
+4061,Arni (AG),2,https://example.ch,Lorem Impsum
+4062,Berikon,1,https://example.ch,Lorem Impsum
+4063,Bremgarten (AG),1,https://example.ch,Lorem Impsum
+4064,Büttikon,2,https://example.ch,Lorem Impsum
+4065,Dottikon,3,https://example.ch,Lorem Impsum
+4066,Eggenwil,4,https://example.ch,Lorem Impsum
+4067,Fischbach-Göslikon,4,https://example.ch,Lorem Impsum
+4068,Hägglingen,3,https://example.ch,Lorem Impsum
+4071,Jonen,2,https://example.ch,Lorem Impsum
+4072,Niederwil (AG),1,https://example.ch,Lorem Impsum
+4073,Oberlunkhofen,1,https://example.ch,Lorem Impsum
+4074,Oberwil-Lieli,2,https://example.ch,Lorem Impsum
+4075,Rudolfstetten-Friedlisberg,3,https://example.ch,Lorem Impsum
+4076,Sarmenstorf,4,https://example.ch,Lorem Impsum
+4077,Tägerig,4,https://example.ch,Lorem Impsum
+4078,Uezwil,3,https://example.ch,Lorem Impsum
+4079,Unterlunkhofen,2,https://example.ch,Lorem Impsum
+4080,Villmergen,1,https://example.ch,Lorem Impsum
+4081,Widen,1,https://example.ch,Lorem Impsum
+4082,Wohlen (AG),2,https://example.ch,Lorem Impsum
+4083,Zufikon,3,https://example.ch,Lorem Impsum
+4084,Islisberg,4,https://example.ch,Lorem Impsum
+4091,Auenstein,4,https://example.ch,Lorem Impsum
+4092,Birr,3,https://example.ch,Lorem Impsum
+4093,Birrhard,2,https://example.ch,Lorem Impsum
+4094,Bözen,1,https://example.ch,Lorem Impsum
+4095,Brugg,1,https://example.ch,Lorem Impsum
+4096,Effingen,2,https://example.ch,Lorem Impsum
+4097,Elfingen,3,https://example.ch,Lorem Impsum
+4099,Habsburg,4,https://example.ch,Lorem Impsum
+4100,Hausen (AG),4,https://example.ch,Lorem Impsum
+4104,Lupfig,3,https://example.ch,Lorem Impsum
+4105,Mandach,2,https://example.ch,Lorem Impsum
+4106,Mönthal,1,https://example.ch,Lorem Impsum
+4107,Mülligen,1,https://example.ch,Lorem Impsum
+4110,Remigen,2,https://example.ch,Lorem Impsum
+4111,Riniken,3,https://example.ch,Lorem Impsum
+4112,Rüfenach,4,https://example.ch,Lorem Impsum
+4117,Thalheim (AG),4,https://example.ch,Lorem Impsum
+4120,Veltheim (AG),3,https://example.ch,Lorem Impsum
+4121,Villigen,2,https://example.ch,Lorem Impsum
+4122,Villnachern,1,https://example.ch,Lorem Impsum
+4123,Windisch,1,https://example.ch,Lorem Impsum
+4124,Bözberg,2,https://example.ch,Lorem Impsum
+4125,Schinznach,3,https://example.ch,Lorem Impsum
+4131,Beinwil am See,4,https://example.ch,Lorem Impsum
+4132,Birrwil,4,https://example.ch,Lorem Impsum
+4133,Burg (AG),3,https://example.ch,Lorem Impsum
+4134,Dürrenäsch,2,https://example.ch,Lorem Impsum
+4135,Gontenschwil,1,https://example.ch,Lorem Impsum
+4136,Holziken,1,https://example.ch,Lorem Impsum
+4137,Leimbach (AG),2,https://example.ch,Lorem Impsum
+4138,Leutwil,3,https://example.ch,Lorem Impsum
+4139,Menziken,4,https://example.ch,Lorem Impsum
+4140,Oberkulm,4,https://example.ch,Lorem Impsum
+4141,Reinach (AG),3,https://example.ch,Lorem Impsum
+4142,Schlossrued,2,https://example.ch,Lorem Impsum
+4143,Schmiedrued,1,https://example.ch,Lorem Impsum
+4144,Schöftland,1,https://example.ch,Lorem Impsum
+4145,Teufenthal (AG),2,https://example.ch,Lorem Impsum
+4146,Unterkulm,3,https://example.ch,Lorem Impsum
+4147,Zetzwil,4,https://example.ch,Lorem Impsum
+4161,Eiken,4,https://example.ch,Lorem Impsum
+4163,Frick,3,https://example.ch,Lorem Impsum
+4164,Gansingen,2,https://example.ch,Lorem Impsum
+4165,Gipf-Oberfrick,1,https://example.ch,Lorem Impsum
+4166,Herznach,1,https://example.ch,Lorem Impsum
+4167,Hornussen,2,https://example.ch,Lorem Impsum
+4169,Kaisten,3,https://example.ch,Lorem Impsum
+4170,Laufenburg,4,https://example.ch,Lorem Impsum
+4172,Münchwilen (AG),4,https://example.ch,Lorem Impsum
+4173,Oberhof,3,https://example.ch,Lorem Impsum
+4175,Oeschgen,2,https://example.ch,Lorem Impsum
+4176,Schwaderloch,1,https://example.ch,Lorem Impsum
+4177,Sisseln,1,https://example.ch,Lorem Impsum
+4179,Ueken,2,https://example.ch,Lorem Impsum
+4181,Wittnau,3,https://example.ch,Lorem Impsum
+4182,Wölflinswil,4,https://example.ch,Lorem Impsum
+4183,Zeihen,4,https://example.ch,Lorem Impsum
+4184,Mettauertal,3,https://example.ch,Lorem Impsum
+4191,Ammerswil,2,https://example.ch,Lorem Impsum
+4192,Boniswil,1,https://example.ch,Lorem Impsum
+4193,Brunegg,1,https://example.ch,Lorem Impsum
+4194,Dintikon,2,https://example.ch,Lorem Impsum
+4195,Egliswil,3,https://example.ch,Lorem Impsum
+4196,Fahrwangen,4,https://example.ch,Lorem Impsum
+4197,Hallwil,4,https://example.ch,Lorem Impsum
+4198,Hendschiken,3,https://example.ch,Lorem Impsum
+4199,Holderbank (AG),2,https://example.ch,Lorem Impsum
+4200,Hunzenschwil,1,https://example.ch,Lorem Impsum
+4201,Lenzburg,1,https://example.ch,Lorem Impsum
+4202,Meisterschwanden,2,https://example.ch,Lorem Impsum
+4203,Möriken-Wildegg,3,https://example.ch,Lorem Impsum
+4204,Niederlenz,4,https://example.ch,Lorem Impsum
+4205,Othmarsingen,4,https://example.ch,Lorem Impsum
+4206,Rupperswil,3,https://example.ch,Lorem Impsum
+4207,Schafisheim,2,https://example.ch,Lorem Impsum
+4208,Seengen,1,https://example.ch,Lorem Impsum
+4209,Seon,1,https://example.ch,Lorem Impsum
+4210,Staufen,2,https://example.ch,Lorem Impsum
+4221,Abtwil,3,https://example.ch,Lorem Impsum
+4222,Aristau,4,https://example.ch,Lorem Impsum
+4223,Auw,4,https://example.ch,Lorem Impsum
+4224,Beinwil (Freiamt),3,https://example.ch,Lorem Impsum
+4226,Besenbüren,2,https://example.ch,Lorem Impsum
+4227,Bettwil,1,https://example.ch,Lorem Impsum
+4228,Boswil,1,https://example.ch,Lorem Impsum
+4229,Bünzen,2,https://example.ch,Lorem Impsum
+4230,Buttwil,3,https://example.ch,Lorem Impsum
+4231,Dietwil,4,https://example.ch,Lorem Impsum
+4232,Geltwil,4,https://example.ch,Lorem Impsum
+4233,Kallern,3,https://example.ch,Lorem Impsum
+4234,Merenschwand,2,https://example.ch,Lorem Impsum
+4235,Mühlau,1,https://example.ch,Lorem Impsum
+4236,Muri (AG),1,https://example.ch,Lorem Impsum
+4237,Oberrüti,2,https://example.ch,Lorem Impsum
+4238,Rottenschwil,3,https://example.ch,Lorem Impsum
+4239,Sins,4,https://example.ch,Lorem Impsum
+4240,Waltenschwil,4,https://example.ch,Lorem Impsum
+4251,Hellikon,3,https://example.ch,Lorem Impsum
+4252,Kaiseraugst,2,https://example.ch,Lorem Impsum
+4253,Magden,1,https://example.ch,Lorem Impsum
+4254,Möhlin,1,https://example.ch,Lorem Impsum
+4255,Mumpf,2,https://example.ch,Lorem Impsum
+4256,Obermumpf,3,https://example.ch,Lorem Impsum
+4257,Olsberg,4,https://example.ch,Lorem Impsum
+4258,Rheinfelden,4,https://example.ch,Lorem Impsum
+4259,Schupfart,3,https://example.ch,Lorem Impsum
+4260,Stein (AG),2,https://example.ch,Lorem Impsum
+4261,Wallbach,1,https://example.ch,Lorem Impsum
+4262,Wegenstetten,1,https://example.ch,Lorem Impsum
+4263,Zeiningen,2,https://example.ch,Lorem Impsum
+4264,Zuzgen,3,https://example.ch,Lorem Impsum
+4271,Aarburg,4,https://example.ch,Lorem Impsum
+4273,Bottenwil,4,https://example.ch,Lorem Impsum
+4274,Brittnau,3,https://example.ch,Lorem Impsum
+4275,Kirchleerau,2,https://example.ch,Lorem Impsum
+4276,Kölliken,1,https://example.ch,Lorem Impsum
+4277,Moosleerau,1,https://example.ch,Lorem Impsum
+4279,Murgenthal,2,https://example.ch,Lorem Impsum
+4280,Oftringen,3,https://example.ch,Lorem Impsum
+4281,Reitnau,4,https://example.ch,Lorem Impsum
+4282,Rothrist,4,https://example.ch,Lorem Impsum
+4283,Safenwil,3,https://example.ch,Lorem Impsum
+4284,Staffelbach,2,https://example.ch,Lorem Impsum
+4285,Strengelbach,1,https://example.ch,Lorem Impsum
+4286,Uerkheim,1,https://example.ch,Lorem Impsum
+4287,Vordemwald,2,https://example.ch,Lorem Impsum
+4288,Wiliberg,3,https://example.ch,Lorem Impsum
+4289,Zofingen,4,https://example.ch,Lorem Impsum
+4301,Baldingen,4,https://example.ch,Lorem Impsum
+4302,Böbikon,3,https://example.ch,Lorem Impsum
+4303,Böttstein,2,https://example.ch,Lorem Impsum
+4304,Döttingen,1,https://example.ch,Lorem Impsum
+4305,Endingen,1,https://example.ch,Lorem Impsum
+4306,Fisibach,2,https://example.ch,Lorem Impsum
+4307,Full-Reuenthal,3,https://example.ch,Lorem Impsum
+4308,Kaiserstuhl,4,https://example.ch,Lorem Impsum
+4309,Klingnau,4,https://example.ch,Lorem Impsum
+4310,Koblenz,3,https://example.ch,Lorem Impsum
+4311,Leibstadt,2,https://example.ch,Lorem Impsum
+4312,Lengnau (AG),1,https://example.ch,Lorem Impsum
+4313,Leuggern,1,https://example.ch,Lorem Impsum
+4314,Mellikon,2,https://example.ch,Lorem Impsum
+4315,Rekingen (AG),3,https://example.ch,Lorem Impsum
+4316,Rietheim,4,https://example.ch,Lorem Impsum
+4317,Rümikon,4,https://example.ch,Lorem Impsum
+4318,Schneisingen,3,https://example.ch,Lorem Impsum
+4319,Siglistorf,2,https://example.ch,Lorem Impsum
+4320,Tegerfelden,1,https://example.ch,Lorem Impsum
+4322,Wislikofen,1,https://example.ch,Lorem Impsum
+4323,Bad Zurzach,2,https://example.ch,Lorem Impsum
+4401,Arbon,3,https://example.ch,Lorem Impsum
+4406,Dozwil,4,https://example.ch,Lorem Impsum
+4411,Egnach,4,https://example.ch,Lorem Impsum
+4416,Hefenhofen,3,https://example.ch,Lorem Impsum
+4421,Horn,2,https://example.ch,Lorem Impsum
+4426,Kesswil,1,https://example.ch,Lorem Impsum
+4431,Roggwil (TG),1,https://example.ch,Lorem Impsum
+4436,Romanshorn,2,https://example.ch,Lorem Impsum
+4441,Salmsach,3,https://example.ch,Lorem Impsum
+4446,Sommeri,4,https://example.ch,Lorem Impsum
+4451,Uttwil,4,https://example.ch,Lorem Impsum
+4461,Amriswil,3,https://example.ch,Lorem Impsum
+4471,Bischofszell,2,https://example.ch,Lorem Impsum
+4476,Erlen,1,https://example.ch,Lorem Impsum
+4486,Hauptwil-Gottshaus,1,https://example.ch,Lorem Impsum
+4495,Hohentannen,2,https://example.ch,Lorem Impsum
+4501,Kradolf-Schönenberg,3,https://example.ch,Lorem Impsum
+4506,Sulgen,4,https://example.ch,Lorem Impsum
+4511,Zihlschlacht-Sitterdorf,4,https://example.ch,Lorem Impsum
+4536,Basadingen-Schlattingen,3,https://example.ch,Lorem Impsum
+4545,Diessenhofen,2,https://example.ch,Lorem Impsum
+4546,Schlatt (TG),1,https://example.ch,Lorem Impsum
+4551,Aadorf,1,https://example.ch,Lorem Impsum
+4561,Felben-Wellhausen,2,https://example.ch,Lorem Impsum
+4566,Frauenfeld,3,https://example.ch,Lorem Impsum
+4571,Gachnang,4,https://example.ch,Lorem Impsum
+4590,Hüttlingen,4,https://example.ch,Lorem Impsum
+4591,Matzingen,3,https://example.ch,Lorem Impsum
+4601,Neunforn,2,https://example.ch,Lorem Impsum
+4606,Stettfurt,1,https://example.ch,Lorem Impsum
+4611,Thundorf,1,https://example.ch,Lorem Impsum
+4616,Uesslingen-Buch,2,https://example.ch,Lorem Impsum
+4621,Warth-Weiningen,3,https://example.ch,Lorem Impsum
+4641,Altnau,4,https://example.ch,Lorem Impsum
+4643,Bottighofen,4,https://example.ch,Lorem Impsum
+4646,Ermatingen,3,https://example.ch,Lorem Impsum
+4651,Gottlieben,2,https://example.ch,Lorem Impsum
+4656,Güttingen,1,https://example.ch,Lorem Impsum
+4666,Kemmental,1,https://example.ch,Lorem Impsum
+4671,Kreuzlingen,2,https://example.ch,Lorem Impsum
+4681,Langrickenbach,3,https://example.ch,Lorem Impsum
+4683,Lengwil,4,https://example.ch,Lorem Impsum
+4691,Münsterlingen,4,https://example.ch,Lorem Impsum
+4696,Tägerwilen,3,https://example.ch,Lorem Impsum
+4701,Wäldi,2,https://example.ch,Lorem Impsum
+4711,Affeltrangen,1,https://example.ch,Lorem Impsum
+4716,Bettwiesen,1,https://example.ch,Lorem Impsum
+4721,Bichelsee-Balterswil,2,https://example.ch,Lorem Impsum
+4723,Braunau,3,https://example.ch,Lorem Impsum
+4724,Eschlikon,4,https://example.ch,Lorem Impsum
+4726,Fischingen,4,https://example.ch,Lorem Impsum
+4741,Lommis,3,https://example.ch,Lorem Impsum
+4746,Münchwilen (TG),2,https://example.ch,Lorem Impsum
+4751,Rickenbach (TG),1,https://example.ch,Lorem Impsum
+4756,Schönholzerswilen,1,https://example.ch,Lorem Impsum
+4761,Sirnach,2,https://example.ch,Lorem Impsum
+4776,Tobel-Tägerschen,3,https://example.ch,Lorem Impsum
+4781,Wängi,4,https://example.ch,Lorem Impsum
+4786,Wilen (TG),4,https://example.ch,Lorem Impsum
+4791,Wuppenau,3,https://example.ch,Lorem Impsum
+4801,Berlingen,2,https://example.ch,Lorem Impsum
+4806,Eschenz,1,https://example.ch,Lorem Impsum
+4811,Herdern,1,https://example.ch,Lorem Impsum
+4816,Homburg,2,https://example.ch,Lorem Impsum
+4821,Hüttwilen,3,https://example.ch,Lorem Impsum
+4826,Mammern,4,https://example.ch,Lorem Impsum
+4831,Müllheim,4,https://example.ch,Lorem Impsum
+4841,Pfyn,3,https://example.ch,Lorem Impsum
+4846,Raperswilen,2,https://example.ch,Lorem Impsum
+4851,Salenstein,1,https://example.ch,Lorem Impsum
+4864,Steckborn,1,https://example.ch,Lorem Impsum
+4871,Wagenhausen,2,https://example.ch,Lorem Impsum
+4881,Amlikon-Bissegg,3,https://example.ch,Lorem Impsum
+4891,Berg (TG),4,https://example.ch,Lorem Impsum
+4901,Birwinken,4,https://example.ch,Lorem Impsum
+4911,Bürglen (TG),3,https://example.ch,Lorem Impsum
+4921,Bussnang,2,https://example.ch,Lorem Impsum
+4941,Märstetten,1,https://example.ch,Lorem Impsum
+4946,Weinfelden,1,https://example.ch,Lorem Impsum
+4951,Wigoltingen,2,https://example.ch,Lorem Impsum
+5001,Arbedo-Castione,3,https://example.ch,Lorem Impsum
+5002,Bellinzona,4,https://example.ch,Lorem Impsum
+5003,Cadenazzo,4,https://example.ch,Lorem Impsum
+5009,Isone,3,https://example.ch,Lorem Impsum
+5010,Lumino,2,https://example.ch,Lorem Impsum
+5017,Sant'Antonino,1,https://example.ch,Lorem Impsum
+5048,Acquarossa,1,https://example.ch,Lorem Impsum
+5049,Blenio,2,https://example.ch,Lorem Impsum
+5050,Serravalle,3,https://example.ch,Lorem Impsum
+5061,Airolo,4,https://example.ch,Lorem Impsum
+5063,Bedretto,4,https://example.ch,Lorem Impsum
+5064,Bodio,3,https://example.ch,Lorem Impsum
+5071,Dalpe,2,https://example.ch,Lorem Impsum
+5072,Faido,1,https://example.ch,Lorem Impsum
+5073,Giornico,1,https://example.ch,Lorem Impsum
+5076,Personico,2,https://example.ch,Lorem Impsum
+5077,Pollegio,3,https://example.ch,Lorem Impsum
+5078,Prato (Leventina),4,https://example.ch,Lorem Impsum
+5079,Quinto,4,https://example.ch,Lorem Impsum
+5091,Ascona,3,https://example.ch,Lorem Impsum
+5096,Brione sopra Minusio,2,https://example.ch,Lorem Impsum
+5097,Brissago,1,https://example.ch,Lorem Impsum
+5108,Gordola,1,https://example.ch,Lorem Impsum
+5112,Lavertezzo 3),2,https://example.ch,Lorem Impsum
+5113,Locarno,3,https://example.ch,Lorem Impsum
+5115,Losone,4,https://example.ch,Lorem Impsum
+5117,Mergoscia,4,https://example.ch,Lorem Impsum
+5118,Minusio,3,https://example.ch,Lorem Impsum
+5120,Muralto,2,https://example.ch,Lorem Impsum
+5121,Orselina,1,https://example.ch,Lorem Impsum
+5125,Ronco sopra Ascona,1,https://example.ch,Lorem Impsum
+5131,Tenero-Contra,2,https://example.ch,Lorem Impsum
+5136,Onsernone,3,https://example.ch,Lorem Impsum
+5138,Cugnasco-Gerra 3),4,https://example.ch,Lorem Impsum
+5141,Agno,4,https://example.ch,Lorem Impsum
+5143,Aranno,3,https://example.ch,Lorem Impsum
+5144,Arogno,2,https://example.ch,Lorem Impsum
+5146,Astano,1,https://example.ch,Lorem Impsum
+5148,Bedano,1,https://example.ch,Lorem Impsum
+5149,Bedigliora,2,https://example.ch,Lorem Impsum
+5151,Bioggio,3,https://example.ch,Lorem Impsum
+5154,Bissone,4,https://example.ch,Lorem Impsum
+5160,Brusino Arsizio,4,https://example.ch,Lorem Impsum
+5161,Cademario,3,https://example.ch,Lorem Impsum
+5162,Cadempino,2,https://example.ch,Lorem Impsum
+5167,Canobbio,1,https://example.ch,Lorem Impsum
+5171,Caslano,1,https://example.ch,Lorem Impsum
+5176,Comano,2,https://example.ch,Lorem Impsum
+5178,Croglio,3,https://example.ch,Lorem Impsum
+5180,Cureglia,4,https://example.ch,Lorem Impsum
+5181,Curio,4,https://example.ch,Lorem Impsum
+5186,Grancia,3,https://example.ch,Lorem Impsum
+5187,Gravesano,2,https://example.ch,Lorem Impsum
+5189,Lamone,1,https://example.ch,Lorem Impsum
+5192,Lugano,1,https://example.ch,Lorem Impsum
+5193,Magliaso,2,https://example.ch,Lorem Impsum
+5194,Manno,3,https://example.ch,Lorem Impsum
+5195,Maroggia,4,https://example.ch,Lorem Impsum
+5196,Massagno,4,https://example.ch,Lorem Impsum
+5197,Melano,3,https://example.ch,Lorem Impsum
+5198,Melide,2,https://example.ch,Lorem Impsum
+5199,Mezzovico-Vira,1,https://example.ch,Lorem Impsum
+5200,Miglieglia,1,https://example.ch,Lorem Impsum
+5202,Monteggio,2,https://example.ch,Lorem Impsum
+5203,Morcote,3,https://example.ch,Lorem Impsum
+5205,Muzzano,4,https://example.ch,Lorem Impsum
+5206,Neggio,4,https://example.ch,Lorem Impsum
+5207,Novaggio,3,https://example.ch,Lorem Impsum
+5208,Origlio,2,https://example.ch,Lorem Impsum
+5210,Paradiso,1,https://example.ch,Lorem Impsum
+5212,Ponte Capriasca,1,https://example.ch,Lorem Impsum
+5213,Ponte Tresa,2,https://example.ch,Lorem Impsum
+5214,Porza,3,https://example.ch,Lorem Impsum
+5216,Pura,4,https://example.ch,Lorem Impsum
+5219,Rovio,4,https://example.ch,Lorem Impsum
+5221,Savosa,3,https://example.ch,Lorem Impsum
+5222,Sessa,2,https://example.ch,Lorem Impsum
+5225,Sorengo,1,https://example.ch,Lorem Impsum
+5226,Capriasca,1,https://example.ch,Lorem Impsum
+5227,Torricella-Taverne,2,https://example.ch,Lorem Impsum
+5230,Vernate,3,https://example.ch,Lorem Impsum
+5231,Vezia,4,https://example.ch,Lorem Impsum
+5233,Vico Morcote,4,https://example.ch,Lorem Impsum
+5236,Collina d'Oro,3,https://example.ch,Lorem Impsum
+5237,Alto Malcantone,2,https://example.ch,Lorem Impsum
+5238,Monteceneri,1,https://example.ch,Lorem Impsum
+5242,Balerna,1,https://example.ch,Lorem Impsum
+5249,Castel San Pietro,2,https://example.ch,Lorem Impsum
+5250,Chiasso,3,https://example.ch,Lorem Impsum
+5251,Coldrerio,4,https://example.ch,Lorem Impsum
+5254,Mendrisio,4,https://example.ch,Lorem Impsum
+5257,Morbio Inferiore,3,https://example.ch,Lorem Impsum
+5260,Novazzano,2,https://example.ch,Lorem Impsum
+5263,Riva San Vitale,1,https://example.ch,Lorem Impsum
+5266,Stabio,1,https://example.ch,Lorem Impsum
+5268,Vacallo,2,https://example.ch,Lorem Impsum
+5269,Breggia,3,https://example.ch,Lorem Impsum
+5281,Biasca,4,https://example.ch,Lorem Impsum
+5287,Riviera,4,https://example.ch,Lorem Impsum
+5304,Bosco/Gurin,3,https://example.ch,Lorem Impsum
+5307,Campo (Vallemaggia),2,https://example.ch,Lorem Impsum
+5309,Cerentino,1,https://example.ch,Lorem Impsum
+5310,Cevio,1,https://example.ch,Lorem Impsum
+5315,Linescio,2,https://example.ch,Lorem Impsum
+5317,Maggia,3,https://example.ch,Lorem Impsum
+5323,Lavizzara,4,https://example.ch,Lorem Impsum
+5324,Avegno Gordevio,4,https://example.ch,Lorem Impsum
+5396,Terre di Pedemonte,3,https://example.ch,Lorem Impsum
+5397,Centovalli,2,https://example.ch,Lorem Impsum
+5398,Gambarogno,1,https://example.ch,Lorem Impsum
+5399,Verzasca 3),1,https://example.ch,Lorem Impsum
+5401,Aigle,2,https://example.ch,Lorem Impsum
+5402,Bex,3,https://example.ch,Lorem Impsum
+5403,Chessel,4,https://example.ch,Lorem Impsum
+5404,Corbeyrier,4,https://example.ch,Lorem Impsum
+5405,Gryon,3,https://example.ch,Lorem Impsum
+5406,Lavey-Morcles,2,https://example.ch,Lorem Impsum
+5407,Leysin,1,https://example.ch,Lorem Impsum
+5408,Noville,1,https://example.ch,Lorem Impsum
+5409,Ollon,2,https://example.ch,Lorem Impsum
+5410,Ormont-Dessous,3,https://example.ch,Lorem Impsum
+5411,Ormont-Dessus,4,https://example.ch,Lorem Impsum
+5412,Rennaz,4,https://example.ch,Lorem Impsum
+5413,Roche (VD),3,https://example.ch,Lorem Impsum
+5414,Villeneuve (VD),2,https://example.ch,Lorem Impsum
+5415,Yvorne,1,https://example.ch,Lorem Impsum
+5421,Apples,1,https://example.ch,Lorem Impsum
+5422,Aubonne,2,https://example.ch,Lorem Impsum
+5423,Ballens,3,https://example.ch,Lorem Impsum
+5424,Berolle,4,https://example.ch,Lorem Impsum
+5425,Bière,4,https://example.ch,Lorem Impsum
+5426,Bougy-Villars,3,https://example.ch,Lorem Impsum
+5427,Féchy,2,https://example.ch,Lorem Impsum
+5428,Gimel,1,https://example.ch,Lorem Impsum
+5429,Longirod,1,https://example.ch,Lorem Impsum
+5430,Marchissy,2,https://example.ch,Lorem Impsum
+5431,Mollens (VD),3,https://example.ch,Lorem Impsum
+5434,Saint-George,4,https://example.ch,Lorem Impsum
+5435,Saint-Livres,4,https://example.ch,Lorem Impsum
+5436,Saint-Oyens,3,https://example.ch,Lorem Impsum
+5437,Saubraz,2,https://example.ch,Lorem Impsum
+5451,Avenches,1,https://example.ch,Lorem Impsum
+5456,Cudrefin,1,https://example.ch,Lorem Impsum
+5458,Faoug,2,https://example.ch,Lorem Impsum
+5464,Vully-les-Lacs,3,https://example.ch,Lorem Impsum
+5471,Bettens,4,https://example.ch,Lorem Impsum
+5472,Bournens,4,https://example.ch,Lorem Impsum
+5473,Boussens,3,https://example.ch,Lorem Impsum
+5474,La Chaux (Cossonay),2,https://example.ch,Lorem Impsum
+5475,Chavannes-le-Veyron,1,https://example.ch,Lorem Impsum
+5476,Chevilly,1,https://example.ch,Lorem Impsum
+5477,Cossonay,2,https://example.ch,Lorem Impsum
+5478,Cottens (VD),3,https://example.ch,Lorem Impsum
+5479,Cuarnens,4,https://example.ch,Lorem Impsum
+5480,Daillens,4,https://example.ch,Lorem Impsum
+5481,Dizy,3,https://example.ch,Lorem Impsum
+5482,Eclépens,2,https://example.ch,Lorem Impsum
+5483,Ferreyres,1,https://example.ch,Lorem Impsum
+5484,Gollion,1,https://example.ch,Lorem Impsum
+5485,Grancy,2,https://example.ch,Lorem Impsum
+5486,L'Isle,3,https://example.ch,Lorem Impsum
+5487,Lussery-Villars,4,https://example.ch,Lorem Impsum
+5488,Mauraz,4,https://example.ch,Lorem Impsum
+5489,Mex (VD),3,https://example.ch,Lorem Impsum
+5490,Moiry,2,https://example.ch,Lorem Impsum
+5491,Mont-la-Ville,1,https://example.ch,Lorem Impsum
+5492,Montricher,1,https://example.ch,Lorem Impsum
+5493,Orny,2,https://example.ch,Lorem Impsum
+5494,Pampigny,3,https://example.ch,Lorem Impsum
+5495,Penthalaz,4,https://example.ch,Lorem Impsum
+5496,Penthaz,4,https://example.ch,Lorem Impsum
+5497,Pompaples,3,https://example.ch,Lorem Impsum
+5498,La Sarraz,2,https://example.ch,Lorem Impsum
+5499,Senarclens,1,https://example.ch,Lorem Impsum
+5500,Sévery,1,https://example.ch,Lorem Impsum
+5501,Sullens,2,https://example.ch,Lorem Impsum
+5503,Vufflens-la-Ville,3,https://example.ch,Lorem Impsum
+5511,Assens,4,https://example.ch,Lorem Impsum
+5512,Bercher,4,https://example.ch,Lorem Impsum
+5513,Bioley-Orjulaz,3,https://example.ch,Lorem Impsum
+5514,Bottens,2,https://example.ch,Lorem Impsum
+5515,Bretigny-sur-Morrens,1,https://example.ch,Lorem Impsum
+5516,Cugy (VD),1,https://example.ch,Lorem Impsum
+5518,Echallens,2,https://example.ch,Lorem Impsum
+5520,Essertines-sur-Yverdon,3,https://example.ch,Lorem Impsum
+5521,Etagnières,4,https://example.ch,Lorem Impsum
+5522,Fey,4,https://example.ch,Lorem Impsum
+5523,Froideville,3,https://example.ch,Lorem Impsum
+5527,Morrens (VD),2,https://example.ch,Lorem Impsum
+5529,Oulens-sous-Echallens,1,https://example.ch,Lorem Impsum
+5530,Pailly,1,https://example.ch,Lorem Impsum
+5531,Penthéréaz,2,https://example.ch,Lorem Impsum
+5533,Poliez-Pittet,3,https://example.ch,Lorem Impsum
+5534,Rueyres,4,https://example.ch,Lorem Impsum
+5535,Saint-Barthélemy (VD),4,https://example.ch,Lorem Impsum
+5537,Villars-le-Terroir,3,https://example.ch,Lorem Impsum
+5539,Vuarrens,2,https://example.ch,Lorem Impsum
+5540,Montilliez,1,https://example.ch,Lorem Impsum
+5541,Goumoëns,1,https://example.ch,Lorem Impsum
+5551,Bonvillars,2,https://example.ch,Lorem Impsum
+5552,Bullet,3,https://example.ch,Lorem Impsum
+5553,Champagne,4,https://example.ch,Lorem Impsum
+5554,Concise,4,https://example.ch,Lorem Impsum
+5555,Corcelles-près-Concise,3,https://example.ch,Lorem Impsum
+5556,Fiez,2,https://example.ch,Lorem Impsum
+5557,Fontaines-sur-Grandson,1,https://example.ch,Lorem Impsum
+5559,Giez,1,https://example.ch,Lorem Impsum
+5560,Grandevent,2,https://example.ch,Lorem Impsum
+5561,Grandson,3,https://example.ch,Lorem Impsum
+5562,Mauborget,4,https://example.ch,Lorem Impsum
+5563,Mutrux,4,https://example.ch,Lorem Impsum
+5564,Novalles,3,https://example.ch,Lorem Impsum
+5565,Onnens (VD),2,https://example.ch,Lorem Impsum
+5566,Provence,1,https://example.ch,Lorem Impsum
+5568,Sainte-Croix,1,https://example.ch,Lorem Impsum
+5571,Tévenon,2,https://example.ch,Lorem Impsum
+5581,Belmont-sur-Lausanne,3,https://example.ch,Lorem Impsum
+5582,Cheseaux-sur-Lausanne,4,https://example.ch,Lorem Impsum
+5583,Crissier,4,https://example.ch,Lorem Impsum
+5584,Epalinges,3,https://example.ch,Lorem Impsum
+5585,Jouxtens-Mézery,2,https://example.ch,Lorem Impsum
+5586,Lausanne,1,https://example.ch,Lorem Impsum
+5587,Le Mont-sur-Lausanne,1,https://example.ch,Lorem Impsum
+5588,Paudex,2,https://example.ch,Lorem Impsum
+5589,Prilly,3,https://example.ch,Lorem Impsum
+5590,Pully,4,https://example.ch,Lorem Impsum
+5591,Renens (VD),4,https://example.ch,Lorem Impsum
+5592,Romanel-sur-Lausanne,3,https://example.ch,Lorem Impsum
+5601,Chexbres,2,https://example.ch,Lorem Impsum
+5604,Forel (Lavaux),1,https://example.ch,Lorem Impsum
+5606,Lutry,1,https://example.ch,Lorem Impsum
+5607,Puidoux,2,https://example.ch,Lorem Impsum
+5609,Rivaz,3,https://example.ch,Lorem Impsum
+5610,Saint-Saphorin (Lavaux),4,https://example.ch,Lorem Impsum
+5611,Savigny,4,https://example.ch,Lorem Impsum
+5613,Bourg-en-Lavaux,3,https://example.ch,Lorem Impsum
+5621,Aclens,2,https://example.ch,Lorem Impsum
+5622,Bremblens,1,https://example.ch,Lorem Impsum
+5623,Buchillon,1,https://example.ch,Lorem Impsum
+5624,Bussigny,2,https://example.ch,Lorem Impsum
+5625,Bussy-Chardonney,3,https://example.ch,Lorem Impsum
+5627,Chavannes-près-Renens,4,https://example.ch,Lorem Impsum
+5628,Chigny,4,https://example.ch,Lorem Impsum
+5629,Clarmont,3,https://example.ch,Lorem Impsum
+5631,Denens,2,https://example.ch,Lorem Impsum
+5632,Denges,1,https://example.ch,Lorem Impsum
+5633,Echandens,1,https://example.ch,Lorem Impsum
+5634,Echichens,2,https://example.ch,Lorem Impsum
+5635,Ecublens (VD),3,https://example.ch,Lorem Impsum
+5636,Etoy,4,https://example.ch,Lorem Impsum
+5637,Lavigny,4,https://example.ch,Lorem Impsum
+5638,Lonay,3,https://example.ch,Lorem Impsum
+5639,Lully (VD),2,https://example.ch,Lorem Impsum
+5640,Lussy-sur-Morges,1,https://example.ch,Lorem Impsum
+5642,Morges,1,https://example.ch,Lorem Impsum
+5643,Préverenges,2,https://example.ch,Lorem Impsum
+5644,Reverolle,3,https://example.ch,Lorem Impsum
+5645,Romanel-sur-Morges,4,https://example.ch,Lorem Impsum
+5646,Saint-Prex,4,https://example.ch,Lorem Impsum
+5648,Saint-Sulpice (VD),3,https://example.ch,Lorem Impsum
+5649,Tolochenaz,2,https://example.ch,Lorem Impsum
+5650,Vaux-sur-Morges,1,https://example.ch,Lorem Impsum
+5651,Villars-Sainte-Croix,1,https://example.ch,Lorem Impsum
+5652,Villars-sous-Yens,2,https://example.ch,Lorem Impsum
+5653,Vufflens-le-Château,3,https://example.ch,Lorem Impsum
+5654,Vullierens,4,https://example.ch,Lorem Impsum
+5655,Yens,4,https://example.ch,Lorem Impsum
+5661,Boulens,3,https://example.ch,Lorem Impsum
+5663,Bussy-sur-Moudon,2,https://example.ch,Lorem Impsum
+5665,Chavannes-sur-Moudon,1,https://example.ch,Lorem Impsum
+5669,Curtilles,1,https://example.ch,Lorem Impsum
+5671,Dompierre (VD),2,https://example.ch,Lorem Impsum
+5673,Hermenches,3,https://example.ch,Lorem Impsum
+5674,Lovatens,4,https://example.ch,Lorem Impsum
+5675,Lucens,4,https://example.ch,Lorem Impsum
+5678,Moudon,3,https://example.ch,Lorem Impsum
+5680,Ogens,2,https://example.ch,Lorem Impsum
+5683,Prévonloup,1,https://example.ch,Lorem Impsum
+5684,Rossenges,1,https://example.ch,Lorem Impsum
+5688,Syens,2,https://example.ch,Lorem Impsum
+5690,Villars-le-Comte,3,https://example.ch,Lorem Impsum
+5692,Vucherens,4,https://example.ch,Lorem Impsum
+5693,Montanaire,4,https://example.ch,Lorem Impsum
+5701,Arnex-sur-Nyon,3,https://example.ch,Lorem Impsum
+5702,Arzier-Le Muids,2,https://example.ch,Lorem Impsum
+5703,Bassins,1,https://example.ch,Lorem Impsum
+5704,Begnins,1,https://example.ch,Lorem Impsum
+5705,Bogis-Bossey,2,https://example.ch,Lorem Impsum
+5706,Borex,3,https://example.ch,Lorem Impsum
+5707,Chavannes-de-Bogis,4,https://example.ch,Lorem Impsum
+5708,Chavannes-des-Bois,4,https://example.ch,Lorem Impsum
+5709,Chéserex,3,https://example.ch,Lorem Impsum
+5710,Coinsins,2,https://example.ch,Lorem Impsum
+5711,Commugny,1,https://example.ch,Lorem Impsum
+5712,Coppet,1,https://example.ch,Lorem Impsum
+5713,Crans (VD),2,https://example.ch,Lorem Impsum
+5714,Crassier,3,https://example.ch,Lorem Impsum
+5715,Duillier,4,https://example.ch,Lorem Impsum
+5716,Eysins,4,https://example.ch,Lorem Impsum
+5717,Founex,3,https://example.ch,Lorem Impsum
+5718,Genolier,2,https://example.ch,Lorem Impsum
+5719,Gingins,1,https://example.ch,Lorem Impsum
+5720,Givrins,1,https://example.ch,Lorem Impsum
+5721,Gland,2,https://example.ch,Lorem Impsum
+5722,Grens,3,https://example.ch,Lorem Impsum
+5723,Mies,4,https://example.ch,Lorem Impsum
+5724,Nyon,4,https://example.ch,Lorem Impsum
+5725,Prangins,3,https://example.ch,Lorem Impsum
+5726,La Rippe,2,https://example.ch,Lorem Impsum
+5727,Saint-Cergue,1,https://example.ch,Lorem Impsum
+5728,Signy-Avenex,1,https://example.ch,Lorem Impsum
+5729,Tannay,2,https://example.ch,Lorem Impsum
+5730,Trélex,3,https://example.ch,Lorem Impsum
+5731,Le Vaud,4,https://example.ch,Lorem Impsum
+5732,Vich,4,https://example.ch,Lorem Impsum
+5741,L'Abergement,3,https://example.ch,Lorem Impsum
+5742,Agiez,2,https://example.ch,Lorem Impsum
+5743,Arnex-sur-Orbe,1,https://example.ch,Lorem Impsum
+5744,Ballaigues,1,https://example.ch,Lorem Impsum
+5745,Baulmes,2,https://example.ch,Lorem Impsum
+5746,Bavois,3,https://example.ch,Lorem Impsum
+5747,Bofflens,4,https://example.ch,Lorem Impsum
+5748,Bretonnières,4,https://example.ch,Lorem Impsum
+5749,Chavornay,3,https://example.ch,Lorem Impsum
+5750,Les Clées,2,https://example.ch,Lorem Impsum
+5752,Croy,1,https://example.ch,Lorem Impsum
+5754,Juriens,1,https://example.ch,Lorem Impsum
+5755,Lignerolle,2,https://example.ch,Lorem Impsum
+5756,Montcherand,3,https://example.ch,Lorem Impsum
+5757,Orbe,4,https://example.ch,Lorem Impsum
+5758,La Praz,4,https://example.ch,Lorem Impsum
+5759,Premier,3,https://example.ch,Lorem Impsum
+5760,Rances,2,https://example.ch,Lorem Impsum
+5761,Romainmôtier-Envy,1,https://example.ch,Lorem Impsum
+5762,Sergey,1,https://example.ch,Lorem Impsum
+5763,Valeyres-sous-Rances,2,https://example.ch,Lorem Impsum
+5764,Vallorbe,3,https://example.ch,Lorem Impsum
+5765,Vaulion,4,https://example.ch,Lorem Impsum
+5766,Vuiteboeuf,4,https://example.ch,Lorem Impsum
+5785,Corcelles-le-Jorat,3,https://example.ch,Lorem Impsum
+5788,Essertes,2,https://example.ch,Lorem Impsum
+5790,Maracon,1,https://example.ch,Lorem Impsum
+5792,Montpreveyres,1,https://example.ch,Lorem Impsum
+5798,Ropraz,2,https://example.ch,Lorem Impsum
+5799,Servion,3,https://example.ch,Lorem Impsum
+5803,Vulliens,4,https://example.ch,Lorem Impsum
+5804,Jorat-Menthue,4,https://example.ch,Lorem Impsum
+5805,Oron,3,https://example.ch,Lorem Impsum
+5806,Jorat-Mézières,2,https://example.ch,Lorem Impsum
+5812,Champtauroz,1,https://example.ch,Lorem Impsum
+5813,Chevroux,1,https://example.ch,Lorem Impsum
+5816,Corcelles-près-Payerne,2,https://example.ch,Lorem Impsum
+5817,Grandcour,3,https://example.ch,Lorem Impsum
+5819,Henniez,4,https://example.ch,Lorem Impsum
+5821,Missy,4,https://example.ch,Lorem Impsum
+5822,Payerne,3,https://example.ch,Lorem Impsum
+5827,Trey,2,https://example.ch,Lorem Impsum
+5828,Treytorrens (Payerne),1,https://example.ch,Lorem Impsum
+5830,Villarzel,1,https://example.ch,Lorem Impsum
+5831,Valbroye,2,https://example.ch,Lorem Impsum
+5841,Château-d'Oex,3,https://example.ch,Lorem Impsum
+5842,Rossinière,4,https://example.ch,Lorem Impsum
+5843,Rougemont,4,https://example.ch,Lorem Impsum
+5851,Allaman,3,https://example.ch,Lorem Impsum
+5852,Bursinel,2,https://example.ch,Lorem Impsum
+5853,Bursins,1,https://example.ch,Lorem Impsum
+5854,Burtigny,1,https://example.ch,Lorem Impsum
+5855,Dully,2,https://example.ch,Lorem Impsum
+5856,Essertines-sur-Rolle,3,https://example.ch,Lorem Impsum
+5857,Gilly,4,https://example.ch,Lorem Impsum
+5858,Luins,4,https://example.ch,Lorem Impsum
+5859,Mont-sur-Rolle,3,https://example.ch,Lorem Impsum
+5860,Perroy,2,https://example.ch,Lorem Impsum
+5861,Rolle,1,https://example.ch,Lorem Impsum
+5862,Tartegnin,1,https://example.ch,Lorem Impsum
+5863,Vinzel,2,https://example.ch,Lorem Impsum
+5871,L'Abbaye,3,https://example.ch,Lorem Impsum
+5872,Le Chenit,4,https://example.ch,Lorem Impsum
+5873,Le Lieu,4,https://example.ch,Lorem Impsum
+5881,Blonay,3,https://example.ch,Lorem Impsum
+5882,Chardonne,2,https://example.ch,Lorem Impsum
+5883,Corseaux,1,https://example.ch,Lorem Impsum
+5884,Corsier-sur-Vevey,1,https://example.ch,Lorem Impsum
+5885,Jongny,2,https://example.ch,Lorem Impsum
+5886,Montreux,3,https://example.ch,Lorem Impsum
+5888,Saint-Légier-La Chiésaz,4,https://example.ch,Lorem Impsum
+5889,La Tour-de-Peilz,4,https://example.ch,Lorem Impsum
+5890,Vevey,3,https://example.ch,Lorem Impsum
+5891,Veytaux,2,https://example.ch,Lorem Impsum
+5902,Belmont-sur-Yverdon,1,https://example.ch,Lorem Impsum
+5903,Bioley-Magnoux,1,https://example.ch,Lorem Impsum
+5904,Chamblon,2,https://example.ch,Lorem Impsum
+5905,Champvent,3,https://example.ch,Lorem Impsum
+5907,Chavannes-le-Chêne,4,https://example.ch,Lorem Impsum
+5908,Chêne-Pâquier,4,https://example.ch,Lorem Impsum
+5909,Cheseaux-Noréaz,3,https://example.ch,Lorem Impsum
+5910,Cronay,2,https://example.ch,Lorem Impsum
+5911,Cuarny,1,https://example.ch,Lorem Impsum
+5912,Démoret,1,https://example.ch,Lorem Impsum
+5913,Donneloye,2,https://example.ch,Lorem Impsum
+5914,Ependes (VD),3,https://example.ch,Lorem Impsum
+5919,Mathod,4,https://example.ch,Lorem Impsum
+5921,Molondin,4,https://example.ch,Lorem Impsum
+5922,Montagny-près-Yverdon,3,https://example.ch,Lorem Impsum
+5923,Oppens,2,https://example.ch,Lorem Impsum
+5924,Orges,1,https://example.ch,Lorem Impsum
+5925,Orzens,1,https://example.ch,Lorem Impsum
+5926,Pomy,2,https://example.ch,Lorem Impsum
+5928,Rovray,3,https://example.ch,Lorem Impsum
+5929,Suchy,4,https://example.ch,Lorem Impsum
+5930,Suscévaz,4,https://example.ch,Lorem Impsum
+5931,Treycovagnes,3,https://example.ch,Lorem Impsum
+5932,Ursins,2,https://example.ch,Lorem Impsum
+5933,Valeyres-sous-Montagny,1,https://example.ch,Lorem Impsum
+5934,Valeyres-sous-Ursins,1,https://example.ch,Lorem Impsum
+5935,Villars-Epeney,2,https://example.ch,Lorem Impsum
+5937,Vugelles-La Mothe,3,https://example.ch,Lorem Impsum
+5938,Yverdon-les-Bains,4,https://example.ch,Lorem Impsum
+5939,Yvonand,4,https://example.ch,Lorem Impsum
+6002,Brig-Glis,3,https://example.ch,Lorem Impsum
+6004,Eggerberg,2,https://example.ch,Lorem Impsum
+6007,Naters,1,https://example.ch,Lorem Impsum
+6008,Ried-Brig,1,https://example.ch,Lorem Impsum
+6009,Simplon,2,https://example.ch,Lorem Impsum
+6010,Termen,3,https://example.ch,Lorem Impsum
+6011,Zwischbergen,4,https://example.ch,Lorem Impsum
+6021,Ardon,4,https://example.ch,Lorem Impsum
+6022,Chamoson,3,https://example.ch,Lorem Impsum
+6023,Conthey,2,https://example.ch,Lorem Impsum
+6024,Nendaz,1,https://example.ch,Lorem Impsum
+6025,Vétroz,1,https://example.ch,Lorem Impsum
+6032,Bourg-Saint-Pierre,2,https://example.ch,Lorem Impsum
+6033,Liddes,3,https://example.ch,Lorem Impsum
+6034,Orsières,4,https://example.ch,Lorem Impsum
+6035,Sembrancher,4,https://example.ch,Lorem Impsum
+6037,Val de Bagnes,3,https://example.ch,Lorem Impsum
+6052,Bellwald,2,https://example.ch,Lorem Impsum
+6054,Binn,1,https://example.ch,Lorem Impsum
+6056,Ernen,1,https://example.ch,Lorem Impsum
+6057,Fiesch,2,https://example.ch,Lorem Impsum
+6058,Fieschertal,3,https://example.ch,Lorem Impsum
+6061,Lax,4,https://example.ch,Lorem Impsum
+6076,Obergoms,4,https://example.ch,Lorem Impsum
+6077,Goms,3,https://example.ch,Lorem Impsum
+6082,Ayent,2,https://example.ch,Lorem Impsum
+6083,Evolène,1,https://example.ch,Lorem Impsum
+6084,Hérémence,1,https://example.ch,Lorem Impsum
+6087,Saint-Martin (VS),2,https://example.ch,Lorem Impsum
+6089,Vex,3,https://example.ch,Lorem Impsum
+6090,Mont-Noble,4,https://example.ch,Lorem Impsum
+6101,Agarn,4,https://example.ch,Lorem Impsum
+6102,Albinen,3,https://example.ch,Lorem Impsum
+6104,Ergisch,2,https://example.ch,Lorem Impsum
+6109,Inden,1,https://example.ch,Lorem Impsum
+6110,Leuk,1,https://example.ch,Lorem Impsum
+6111,Leukerbad,2,https://example.ch,Lorem Impsum
+6112,Oberems,3,https://example.ch,Lorem Impsum
+6113,Salgesch,4,https://example.ch,Lorem Impsum
+6116,Varen,4,https://example.ch,Lorem Impsum
+6117,Guttet-Feschel,3,https://example.ch,Lorem Impsum
+6118,Gampel-Bratsch,2,https://example.ch,Lorem Impsum
+6119,Turtmann-Unterems,1,https://example.ch,Lorem Impsum
+6131,Bovernier,1,https://example.ch,Lorem Impsum
+6133,Fully,2,https://example.ch,Lorem Impsum
+6134,Isérables,3,https://example.ch,Lorem Impsum
+6135,Leytron,4,https://example.ch,Lorem Impsum
+6136,Martigny,4,https://example.ch,Lorem Impsum
+6137,Martigny-Combe,3,https://example.ch,Lorem Impsum
+6139,Riddes,2,https://example.ch,Lorem Impsum
+6140,Saillon,1,https://example.ch,Lorem Impsum
+6141,Saxon,1,https://example.ch,Lorem Impsum
+6142,Trient,2,https://example.ch,Lorem Impsum
+6151,Champéry,3,https://example.ch,Lorem Impsum
+6152,Collombey-Muraz,4,https://example.ch,Lorem Impsum
+6153,Monthey,4,https://example.ch,Lorem Impsum
+6154,Port-Valais,3,https://example.ch,Lorem Impsum
+6155,Saint-Gingolph,2,https://example.ch,Lorem Impsum
+6156,Troistorrents,1,https://example.ch,Lorem Impsum
+6157,Val-d'Illiez,1,https://example.ch,Lorem Impsum
+6158,Vionnaz,2,https://example.ch,Lorem Impsum
+6159,Vouvry,3,https://example.ch,Lorem Impsum
+6172,Bister,4,https://example.ch,Lorem Impsum
+6173,Bitsch,4,https://example.ch,Lorem Impsum
+6177,Grengiols,3,https://example.ch,Lorem Impsum
+6181,Riederalp,2,https://example.ch,Lorem Impsum
+6191,Ausserberg,1,https://example.ch,Lorem Impsum
+6192,Blatten,1,https://example.ch,Lorem Impsum
+6193,Bürchen,2,https://example.ch,Lorem Impsum
+6194,Eischoll,3,https://example.ch,Lorem Impsum
+6195,Ferden,4,https://example.ch,Lorem Impsum
+6197,Kippel,4,https://example.ch,Lorem Impsum
+6198,Niedergesteln,3,https://example.ch,Lorem Impsum
+6199,Raron,2,https://example.ch,Lorem Impsum
+6201,Unterbäch,1,https://example.ch,Lorem Impsum
+6202,Wiler (Lötschen),1,https://example.ch,Lorem Impsum
+6203,Mörel-Filet,2,https://example.ch,Lorem Impsum
+6204,Steg-Hohtenn,3,https://example.ch,Lorem Impsum
+6205,Bettmeralp,4,https://example.ch,Lorem Impsum
+6211,Collonges,4,https://example.ch,Lorem Impsum
+6212,Dorénaz,3,https://example.ch,Lorem Impsum
+6213,Evionnaz,2,https://example.ch,Lorem Impsum
+6214,Finhaut,1,https://example.ch,Lorem Impsum
+6215,Massongex,1,https://example.ch,Lorem Impsum
+6217,Saint-Maurice,2,https://example.ch,Lorem Impsum
+6218,Salvan,3,https://example.ch,Lorem Impsum
+6219,Vernayaz,4,https://example.ch,Lorem Impsum
+6220,Vérossaz,4,https://example.ch,Lorem Impsum
+6232,Chalais,3,https://example.ch,Lorem Impsum
+6235,Chippis,2,https://example.ch,Lorem Impsum
+6238,Grône,1,https://example.ch,Lorem Impsum
+6239,Icogne,1,https://example.ch,Lorem Impsum
+6240,Lens,2,https://example.ch,Lorem Impsum
+6246,Saint-Léonard,3,https://example.ch,Lorem Impsum
+6248,Sierre,4,https://example.ch,Lorem Impsum
+6252,Anniviers,4,https://example.ch,Lorem Impsum
+6253,Crans-Montana,3,https://example.ch,Lorem Impsum
+6254,Noble-Contrée,2,https://example.ch,Lorem Impsum
+6261,Arbaz,1,https://example.ch,Lorem Impsum
+6263,Grimisuat,1,https://example.ch,Lorem Impsum
+6265,Savièse,2,https://example.ch,Lorem Impsum
+6266,Sion,3,https://example.ch,Lorem Impsum
+6267,Veysonnaz,4,https://example.ch,Lorem Impsum
+6281,Baltschieder,4,https://example.ch,Lorem Impsum
+6282,Eisten,3,https://example.ch,Lorem Impsum
+6283,Embd,2,https://example.ch,Lorem Impsum
+6285,Grächen,1,https://example.ch,Lorem Impsum
+6286,Lalden,1,https://example.ch,Lorem Impsum
+6287,Randa,2,https://example.ch,Lorem Impsum
+6288,Saas-Almagell,3,https://example.ch,Lorem Impsum
+6289,Saas-Balen,4,https://example.ch,Lorem Impsum
+6290,Saas-Fee,4,https://example.ch,Lorem Impsum
+6291,Saas-Grund,3,https://example.ch,Lorem Impsum
+6292,St. Niklaus,2,https://example.ch,Lorem Impsum
+6293,Stalden (VS),1,https://example.ch,Lorem Impsum
+6294,Staldenried,1,https://example.ch,Lorem Impsum
+6295,Täsch,2,https://example.ch,Lorem Impsum
+6296,Törbel,3,https://example.ch,Lorem Impsum
+6297,Visp,4,https://example.ch,Lorem Impsum
+6298,Visperterminen,4,https://example.ch,Lorem Impsum
+6299,Zeneggen,3,https://example.ch,Lorem Impsum
+6300,Zermatt,2,https://example.ch,Lorem Impsum
+6404,Boudry,1,https://example.ch,Lorem Impsum
+6408,Cortaillod,1,https://example.ch,Lorem Impsum
+6413,Rochefort,2,https://example.ch,Lorem Impsum
+6416,Milvignes,3,https://example.ch,Lorem Impsum
+6417,La Grande Béroche,4,https://example.ch,Lorem Impsum
+6421,La Chaux-de-Fonds,4,https://example.ch,Lorem Impsum
+6422,Les Planchettes,3,https://example.ch,Lorem Impsum
+6423,La Sagne,2,https://example.ch,Lorem Impsum
+6432,La Brévine,1,https://example.ch,Lorem Impsum
+6433,Brot-Plamboz,1,https://example.ch,Lorem Impsum
+6434,Le Cerneux-Péquignot,2,https://example.ch,Lorem Impsum
+6435,La Chaux-du-Milieu,3,https://example.ch,Lorem Impsum
+6436,Le Locle,4,https://example.ch,Lorem Impsum
+6437,Les Ponts-de-Martel,4,https://example.ch,Lorem Impsum
+6451,Cornaux,3,https://example.ch,Lorem Impsum
+6452,Cressier (NE),2,https://example.ch,Lorem Impsum
+6453,Enges,1,https://example.ch,Lorem Impsum
+6454,Hauterive (NE),1,https://example.ch,Lorem Impsum
+6455,Le Landeron,2,https://example.ch,Lorem Impsum
+6456,Lignières,3,https://example.ch,Lorem Impsum
+6458,Neuchâtel,4,https://example.ch,Lorem Impsum
+6459,Saint-Blaise,4,https://example.ch,Lorem Impsum
+6461,La Tène,3,https://example.ch,Lorem Impsum
+6487,Val-de-Ruz,2,https://example.ch,Lorem Impsum
+6504,La Côte-aux-Fées,1,https://example.ch,Lorem Impsum
+6511,Les Verrières,1,https://example.ch,Lorem Impsum
+6512,Val-de-Travers,2,https://example.ch,Lorem Impsum
+6601,Aire-la-Ville,3,https://example.ch,Lorem Impsum
+6602,Anières,4,https://example.ch,Lorem Impsum
+6603,Avully,4,https://example.ch,Lorem Impsum
+6604,Avusy,3,https://example.ch,Lorem Impsum
+6605,Bardonnex,2,https://example.ch,Lorem Impsum
+6606,Bellevue,1,https://example.ch,Lorem Impsum
+6607,Bernex,1,https://example.ch,Lorem Impsum
+6608,Carouge (GE),2,https://example.ch,Lorem Impsum
+6609,Cartigny,3,https://example.ch,Lorem Impsum
+6610,Céligny,4,https://example.ch,Lorem Impsum
+6611,Chancy,4,https://example.ch,Lorem Impsum
+6612,Chêne-Bougeries,3,https://example.ch,Lorem Impsum
+6613,Chêne-Bourg,2,https://example.ch,Lorem Impsum
+6614,Choulex,1,https://example.ch,Lorem Impsum
+6615,Collex-Bossy,1,https://example.ch,Lorem Impsum
+6616,Collonge-Bellerive,2,https://example.ch,Lorem Impsum
+6617,Cologny,3,https://example.ch,Lorem Impsum
+6618,Confignon,4,https://example.ch,Lorem Impsum
+6619,Corsier (GE),4,https://example.ch,Lorem Impsum
+6620,Dardagny,3,https://example.ch,Lorem Impsum
+6621,Genève,2,https://example.ch,Lorem Impsum
+6622,Genthod,1,https://example.ch,Lorem Impsum
+6623,Le Grand-Saconnex,1,https://example.ch,Lorem Impsum
+6624,Gy,2,https://example.ch,Lorem Impsum
+6625,Hermance,3,https://example.ch,Lorem Impsum
+6626,Jussy,4,https://example.ch,Lorem Impsum
+6627,Laconnex,4,https://example.ch,Lorem Impsum
+6628,Lancy,3,https://example.ch,Lorem Impsum
+6629,Meinier,2,https://example.ch,Lorem Impsum
+6630,Meyrin,1,https://example.ch,Lorem Impsum
+6631,Onex,1,https://example.ch,Lorem Impsum
+6632,Perly-Certoux,2,https://example.ch,Lorem Impsum
+6633,Plan-les-Ouates,3,https://example.ch,Lorem Impsum
+6634,Pregny-Chambésy,4,https://example.ch,Lorem Impsum
+6635,Presinge,4,https://example.ch,Lorem Impsum
+6636,Puplinge,3,https://example.ch,Lorem Impsum
+6637,Russin,2,https://example.ch,Lorem Impsum
+6638,Satigny,1,https://example.ch,Lorem Impsum
+6639,Soral,1,https://example.ch,Lorem Impsum
+6640,Thônex,2,https://example.ch,Lorem Impsum
+6641,Troinex,3,https://example.ch,Lorem Impsum
+6642,Vandoeuvres,4,https://example.ch,Lorem Impsum
+6643,Vernier,4,https://example.ch,Lorem Impsum
+6644,Versoix,3,https://example.ch,Lorem Impsum
+6645,Veyrier,2,https://example.ch,Lorem Impsum
+6702,Boécourt,1,https://example.ch,Lorem Impsum
+6703,Bourrignon,1,https://example.ch,Lorem Impsum
+6704,Châtillon (JU),2,https://example.ch,Lorem Impsum
+6706,Courchapoix,3,https://example.ch,Lorem Impsum
+6708,Courrendlin,4,https://example.ch,Lorem Impsum
+6709,Courroux,4,https://example.ch,Lorem Impsum
+6710,Courtételle,3,https://example.ch,Lorem Impsum
+6711,Delémont,2,https://example.ch,Lorem Impsum
+6712,Develier,1,https://example.ch,Lorem Impsum
+6713,Ederswiler,1,https://example.ch,Lorem Impsum
+6715,Mervelier,2,https://example.ch,Lorem Impsum
+6716,Mettembert,3,https://example.ch,Lorem Impsum
+6718,Movelier,4,https://example.ch,Lorem Impsum
+6719,Pleigne,4,https://example.ch,Lorem Impsum
+6721,Rossemaison,3,https://example.ch,Lorem Impsum
+6722,Saulcy,2,https://example.ch,Lorem Impsum
+6724,Soyhières,1,https://example.ch,Lorem Impsum
+6729,Haute-Sorne,1,https://example.ch,Lorem Impsum
+6730,Val Terbi,2,https://example.ch,Lorem Impsum
+6741,Le Bémont (JU),3,https://example.ch,Lorem Impsum
+6742,Les Bois,4,https://example.ch,Lorem Impsum
+6743,Les Breuleux,4,https://example.ch,Lorem Impsum
+6744,La Chaux-des-Breuleux,3,https://example.ch,Lorem Impsum
+6745,Les Enfers,2,https://example.ch,Lorem Impsum
+6748,Les Genevez (JU),1,https://example.ch,Lorem Impsum
+6750,Lajoux (JU),1,https://example.ch,Lorem Impsum
+6751,Montfaucon,2,https://example.ch,Lorem Impsum
+6753,Muriaux,3,https://example.ch,Lorem Impsum
+6754,Le Noirmont,4,https://example.ch,Lorem Impsum
+6757,Saignelégier,4,https://example.ch,Lorem Impsum
+6758,Saint-Brais,3,https://example.ch,Lorem Impsum
+6759,Soubey,2,https://example.ch,Lorem Impsum
+6771,Alle,1,https://example.ch,Lorem Impsum
+6773,Beurnevésin,1,https://example.ch,Lorem Impsum
+6774,Boncourt,2,https://example.ch,Lorem Impsum
+6775,Bonfol,3,https://example.ch,Lorem Impsum
+6778,Bure,4,https://example.ch,Lorem Impsum
+6781,Coeuve,4,https://example.ch,Lorem Impsum
+6782,Cornol,3,https://example.ch,Lorem Impsum
+6783,Courchavon,2,https://example.ch,Lorem Impsum
+6784,Courgenay,1,https://example.ch,Lorem Impsum
+6785,Courtedoux,1,https://example.ch,Lorem Impsum
+6787,Damphreux,2,https://example.ch,Lorem Impsum
+6789,Fahy,3,https://example.ch,Lorem Impsum
+6790,Fontenais,4,https://example.ch,Lorem Impsum
+6792,Grandfontaine,4,https://example.ch,Lorem Impsum
+6793,Lugnez,3,https://example.ch,Lorem Impsum
+6800,Porrentruy,2,https://example.ch,Lorem Impsum
+6806,Vendlincourt,1,https://example.ch,Lorem Impsum
+6807,Basse-Allaine,1,https://example.ch,Lorem Impsum
+6808,Clos du Doubs,2,https://example.ch,Lorem Impsum
+6809,Haute-Ajoie,3,https://example.ch,Lorem Impsum
+6810,La Baroche,4,https://example.ch,Lorem Impsum

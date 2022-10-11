@@ -1,0 +1,97 @@
+body {
+  margin: 25px;
+}
+
+.tooltip {
+  font-weight: bold;
+  padding: 0.5rem;
+  border: 1px solid silver;
+  color: #222;
+  background: #fff;
+  border-radius: 5px;
+  box-shadow: 0px 0px 5px 0px #a6a6a6;
+  opacity: 0.9;
+  position: absolute;
+  font-size: 1.5rem;
+}
+
+.hidden {
+  display: none;
+}
+
+#details, #initial {
+  margin-top: 2rem;
+}
+
+table {
+  margin-bottom: 0;
+}
+td, th {
+  padding: 6px 9px;
+}
+td {
+  text-align: right;
+}
+
+.container {
+  width: 100%;
+}
+
+.footer {
+  border-top: 1px solid silver;
+  color: #888888;
+  font-size: 1.25rem;
+  text-align: center;
+  margin-top: 1rem;
+  padding: 0.5rem;
+}
+
+#close-details {
+  color: #FA5858;
+  text-decoration: none;
+  font-size: 4rem;
+  text-align: right;
+  line-height: 4.5rem;
+}
+#close-details:hover {
+  color: red;
+}
+
+#map {
+  font-size: 0; /* to prevent margin at bottom of map container */
+  border: 1px solid rgb(0, 0, 0);
+  background: #ffffff;
+}
+
+#legend {
+  border: 1px solid rgb(0, 0, 0);
+  border-top: 0;
+}
+
+.legend-key path {
+  display: none;
+}
+
+.legend-key text {
+  font-size: 1rem;
+}
+
+.legend-key line {
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+/* Thanks to http://colorbrewer2.org/ */
+.statuscolor .s0-4{fill:lightgrey}
+.statuscolor .s1-4{fill:lightgreen}
+.statuscolor .s2-4{fill:darkgreen}
+.statuscolor .s3-4{fill:red}
+
+
+g.features {
+  stroke: #000000;
+  stroke-width: 0.5;
+}
+g.features path:hover {
+  opacity: 0.5;
+}

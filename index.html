@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Land use statistics map</title>
+
+    <!-- CSS libraries -->
+    <link href="http://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.min.css" rel="stylesheet" type="text/css">
+
+    <!-- Custom CSS styles -->
+    <link href="style.css" rel="stylesheet" type="text/css">
+  </head>
+  <body>
+    <div class="container">
+      <div class="row">
+        <h3 class="nine columns">WLW Prototyp</h3>
+
+      </div>
+      <div id="map"><!-- Map container --></div>
+      <div id="legend"><!-- Legend container --></div>
+
+      <div id="details" class="hidden row"><!-- Details container --></div>
+
+    </div>
+
+    <!-- Mustache template, rendered later to show the details of a feature -->
+    <script id="template" type="x-tmpl-mustache">
+      <h3 class="six columns">{{ name }}</h3>
+      <table class="three columns">
+        <tr>
+          <th>Url:</th>
+          <td>{{ url }} </td>
+        </tr>
+        <tr>
+          <th>Text:</th>
+          <td>{{ text }} </td>
+        </tr>
+        <tr>
+          <th>Partnerschaftstatus:</th>
+          <td>{{ state }} </td>
+        </tr>
+
+      </table>
+      <a href="#" id="close-details" class="one column" onclick="hideDetails(); return false;">&#x274c;</a>
+    </script>
+
+    <!-- JS libraries -->
+    <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/mustache.js/2.2.1/mustache.min.js"></script>
+
+    <!-- Custom JS code -->
+    <script src="map.js"></script>
+  </body>
+</html>
