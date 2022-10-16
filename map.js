@@ -5,7 +5,8 @@
 // We specify the dimensions for the map container. We use the same
 // width and height as specified in the CSS above.
 let width = 900,
-    height = 600;
+    height = 600,
+    centered;
 
 // We define a letiable to later hold the data of the CSV.
 let mapData;
@@ -134,7 +135,7 @@ function updateMapColors() {
     });
 
   // We call the function to update the legend.
-  updateLegend();
+
 }
 
 /**
@@ -148,6 +149,8 @@ function showDetails(f) {
   let id = getIdOfFeature(f);
   // Use the ID to get the data entry.
   let d = dataById[id];
+ 
+  //clicked(d)
 
   // Render the Mustache template with the data object and put the
   // resulting HTML output in the details container.
@@ -176,7 +179,7 @@ function hideDetails() {
  *
  * @param {object} f - A GeoJSON Feature object.
  */
-function showTooltip(f) {
+ function showTooltip(f) {
   // Get the ID of the feature.
   let id = getIdOfFeature(f);
   // Use the ID to get the data entry.
@@ -193,13 +196,14 @@ function showTooltip(f) {
   let left = Math.min(width - 4 * d.name.length, mouse[0] + 5);
   let top = mouse[1] + 25;
 
+
   // Show the tooltip (unhide it) and set the name of the data entry.
   // Set the position as calculated before.
   tooltip.classed('hidden', false)
     .attr("style", "left:" + left + "px; top:" + top + "px")
 
     //here can the hover Infos be set
-    .html(d.name+" </br>"+ d.text+" </br>"+d.url);
+    .html(d.name+" "+d.state+"</br>"+ d.text+" </br>"+d.url);
 }
 
 /**
@@ -279,3 +283,21 @@ function getValueOfData(d) {
 function getIdOfFeature(f) {
   return f.properties.GMDNR;
 }
+/* function clicked(d) {
+  var x, y, k;
+
+
+    x = width / 2;
+    y = height / 2;
+    k = 1;
+    centered = null;
+  
+
+  mapFeatures.selectAll("path")
+      .classed("active", centered && function(d) { return d === centered; });
+
+  mapFeatures.transition()
+      .duration(750)
+      .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")scale(" + k + ")translate(" + -x + "," + -y + ")")
+      .style("stroke-width", 0.5 / k + "px");
+} */
